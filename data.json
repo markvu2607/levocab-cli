@@ -1,0 +1,18 @@
+[
+  {
+    "word": "abc",
+    "meaningOptions": [
+      { "meaning": "this is first meaning", "correct": 1 },
+      { "meaning": "this is second meaning", "correct": 0 }
+    ],
+    "example": "This is an example"
+  },
+  {
+    "word": "def",
+    "meaningOptions": [
+      { "meaning": "this is first meaning 2", "correct": 0 },
+      { "meaning": "this is second meaning 2", "correct": 1 }
+    ],
+    "example": "This is an example 2"
+  }
+]
