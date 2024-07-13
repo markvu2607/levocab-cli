@@ -1,27 +1,3002 @@
 [
   {
+    "word": "agree",
+    "meaning": "To agree is to have the same opinion or belief as another person.",
+    "example": "The students agree they have too much homework."
+  },
+  {
+    "word": "alcohol",
+    "meaning": "Alcohol is a type of drink that can make people drunk.",
+    "example": "A person should not drive a car after he or she has been drinking alcohol."
+  },
+  {
+    "word": "arrive",
+    "meaning": "To arrive is to get somewhere.",
+    "example": "They arrived at school at 7 a.m."
+  },
+  {
+    "word": "August",
+    "meaning": "August is the eighth month of the year.",
+    "example": "Is your birthday in August?"
+  },
+  {
+    "word": "boat",
+    "meaning": "A boat is a vehicle that moves across water.",
+    "example": "There is a small boat on the lake."
+  },
+  {
+    "word": "breakfast",
+    "meaning": "Breakfast is the morning meal.",
+    "example": "I ate eggs for breakfast."
+  },
+  {
+    "word": "camera",
+    "meaning": "A camera is a piece of equipment that takes pictures.",
+    "example": "I brought my camera on my vacation."
+  },
+  {
+    "word": "capital",
+    "meaning": "A capital is a city where a country’s government is based.",
+    "example": "The capital of the United States is Washington, D.C."
+  },
+  {
+    "word": "catch",
+    "meaning": "To catch is to grab or get something.",
+    "example": "Did you catch the ball during the baseball game?"
+  },
+  {
+    "word": "duck",
+    "meaning": "A duck is a small water bird.",
+    "example": "People feed ducks at the lake."
+  },
+  {
+    "word": "enjoy",
+    "meaning": "To enjoy is to like something.",
+    "example": "The woman enjoys riding her bicycle."
+  },
+  {
+    "word": "invite",
+    "meaning": "To invite is to ask someone to come to a place or event.",
+    "example": "I will invite my friends to my birthday party."
+  },
+  {
+    "word": "love",
+    "meaning": "To love is to like something or someone a lot.",
+    "example": "I love my family very much."
+  },
+  {
+    "word": "month",
+    "meaning": "A month is one of 12 periods of time in one year.",
+    "example": "January is the first month of the year."
+  },
+  {
+    "word": "travel",
+    "meaning": "To travel is to go to a faraway place on vacation or business.",
+    "example": "They will travel to Argentina this summer."
+  },
+  {
+    "word": "typical",
+    "meaning": "If something is typical, it is normal, or something that usually happens.",
+    "example": "My typical breakfast is toast and eggs."
+  },
+  {
+    "word": "visit",
+    "meaning": "To visit is to go and spend time in another place or see another person.",
+    "example": "She wants to visit her grandmother."
+  },
+  {
+    "word": "weather",
+    "meaning": "Weather is the temperature and the state of the outdoors.",
+    "example": "Today’s weather is rainy and cloudy."
+  },
+  {
+    "word": "week",
+    "meaning": "A week is a period of time that is seven days long.",
+    "example": "What are you doing next week?"
+  },
+  {
+    "word": "wine",
+    "meaning": "Wine is an alcoholic drink made from grapes.",
+    "example": "The store carried both red and white wine."
+  },
+  {
+    "word": "adventure",
+    "meaning": "An adventure is a fun or exciting thing that you do.",
+    "example": "Riding in the rough water was an adventure."
+  },
+  {
+    "word": "approach",
+    "meaning": "To approach something means to move close to it.",
+    "example": "The boy approached his school."
+  },
+  {
+    "word": "carefully",
+    "meaning": "Carefully means with great attention, especially to detail or safety.",
+    "example": "The baby carefully climbed down the stairs."
+  },
+  {
+    "word": "chemical",
+    "meaning": "A chemical is something that scientists use in chemistry.",
+    "example": "The scientist mixed the chemicals."
+  },
+  {
+    "word": "create",
+    "meaning": "To create means to make something new.",
+    "example": "She created an igloo from blocks of snow."
+  },
+  {
+    "word": "evil",
+    "meaning": "Evil describes something or someone bad or cruel, not good.",
+    "example": "They felt a strange, evil presence as they got closer to the house."
+  },
+  {
+    "word": "experiment",
+    "meaning": "An experiment is a test that you do to see what will happen.",
+    "example": "The student did an experiment in science class."
+  },
+  {
+    "word": "kill",
+    "meaning": "To kill someone or something is to make them die.",
+    "example": "I killed the fly."
+  },
+  {
+    "word": "laboratory",
+    "meaning": "A laboratory is a room where a scientist works.",
+    "example": "My mother works in a laboratory."
+  },
+  {
+    "word": "laugh",
+    "meaning": "Laugh is the sound made when someone is happy or a funny thing occurs.",
+    "example": "The sound of her laugh filled the room."
+  },
+  {
+    "word": "loud",
+    "meaning": "If a sound is loud, it is strong and very easy to hear.",
+    "example": "The man’s voice was so loud that we all could hear him."
+  },
+  {
+    "word": "nervous",
+    "meaning": "When a person is nervous, they think something bad will happen.",
+    "example": "The boy became nervous when he heard the news."
+  },
+  {
+    "word": "noise",
+    "meaning": "A noise is an unpleasant sound.",
+    "example": "The crying baby made a loud noise."
+  },
+  {
+    "word": "project",
+    "meaning": "A project is a type of work that you do for school or a job.",
+    "example": "His afternoon work project was to paint the room green."
+  },
+  {
+    "word": "scare",
+    "meaning": "To scare someone is to make them feel afraid.",
+    "example": "My uncle was scared by what he saw in the room."
+  },
+  {
+    "word": "secret",
+    "meaning": "A secret is something that you do not tell other people.",
+    "example": "The two boys were sharing a secret."
+  },
+  {
+    "word": "shout",
+    "meaning": "To shout is to say something loudly.",
+    "example": "My boss shouted at me because I was late for work."
+  },
+  {
+    "word": "smell",
+    "meaning": "To smell something means to use your nose to sense it.",
+    "example": "The two friends smelled the flower."
+  },
+  {
+    "word": "terrible",
+    "meaning": "If something is terrible, it is very bad.",
+    "example": "The way he treated his classmate was terrible."
+  },
+  {
+    "word": "worse",
+    "meaning": "If something is worse, it is of poorer quality than another thing.",
+    "example": "Business was worse this month than last month."
+  },
+  {
+    "word": "alien",
+    "meaning": "An alien is a creature from a different world.",
+    "example": "The alien came in peace."
+  },
+  {
+    "word": "among",
+    "meaning": "If you are among certain things, they are all around you.",
+    "example": "There was a red apple among the green ones."
+  },
+  {
+    "word": "chart",
+    "meaning": "A chart is a list of information.",
+    "example": "We used a chart to see how we had improved."
+  },
+  {
+    "word": "cloud",
+    "meaning": "A cloud is a group of water drops in the sky.",
+    "example": "The sky was filled with white clouds."
+  },
+  {
+    "word": "describe",
+    "meaning": "To describe is to say or write what someone or something is like.",
+    "example": "They described their tree as colorful, with gold ribbon and a star."
+  },
+  {
+    "word": "ever",
+    "meaning": "Ever means at any time.",
+    "example": "Going skiing last winter was the most fun I’ve ever had."
+  },
+  {
+    "word": "fail",
+    "meaning": "To fail means you do not succeed in what you try to do.",
+    "example": "Since he failed to get the job, he was sad."
+  },
+  {
+    "word": "grade",
+    "meaning": "A grade is a score or mark given to someone’s work.",
+    "example": "I managed to get good grades on my report card."
+  },
+  {
+    "word": "instead",
+    "meaning": "Instead means in place of.",
+    "example": "He ate the carrot instead of the ice cream."
+  },
+  {
+    "word": "library",
+    "meaning": "A library is a place where you go to read books.",
+    "example": "The library at school is full of books."
+  },
+  {
+    "word": "photograph",
+    "meaning": "I like taking photographs.",
+    "example": "I took this photograph with my cell phone."
+  },
+  {
+    "word": "planet",
+    "meaning": "A planet is a large round thing in space.",
+    "example": "Saturn is the planet with the ring around it."
+  },
+  {
+    "word": "report",
+    "meaning": "A report is something someone writes for school or work.",
+    "example": "Karen had trouble writing her report."
+  },
+  {
+    "word": "several",
+    "meaning": "Several is more than two but not many.",
+    "example": "He had to read several books for class."
+  },
+  {
+    "word": "shape",
+    "meaning": "An object’s shape is the arrangement of its sides and surfaces.",
+    "example": "Even with your eyes closed you can feel the shape of it."
+  },
+  {
+    "word": "solve",
+    "meaning": "To solve something is to find an answer to it.",
+    "example": "All the students could easily solve the math problem."
+  },
+  {
+    "word": "suddenly",
+    "meaning": "If something happens suddenly, it happens quickly and unexpectedly.",
+    "example": "I was surprised when my friends suddenly shouted, “Happy birthday!”"
+  },
+  {
+    "word": "suppose",
+    "meaning": "To suppose is to guess.",
+    "example": "I suppose I should go home now."
+  },
+  {
+    "word": "understand",
+    "meaning": "To understand something you need to know what it means.",
+    "example": "Henry could not understand the message."
+  },
+  {
+    "word": "view",
+    "meaning": "To view is to look at something.",
+    "example": "Michael likes to view himself in the mirror."
+  },
+  {
+    "word": "appropriate",
+    "meaning": "When a thing is appropriate, it is right or normal.",
+    "example": "It’s appropriate to wear a suit when you go to the office."
+  },
+  {
+    "word": "avoid",
+    "meaning": "To avoid something is to stay away from it.",
+    "example": "Avoid the broken bottle on the floor."
+  },
+  {
+    "word": "behave",
+    "meaning": "To behave is to act in a particular way, especially to be good.",
+    "example": "She always behaves well when her father is around."
+  },
+  {
+    "word": "calm",
+    "meaning": "When someone is calm, they do not get excited or upset.",
+    "example": "A nice warm bath makes me feel so calm."
+  },
+  {
+    "word": "concern",
+    "meaning": "Concern is a feeling of worry.",
+    "example": "I was filled with concern after reading the newspaper."
+  },
+  {
+    "word": "content",
+    "meaning": "To be content is to be happy and not want more.",
+    "example": "The baby looked very content sitting on the floor."
+  },
+  {
+    "word": "expect",
+    "meaning": "If you expect something to happen, you believe it will happen.",
+    "example": "I expect the bus to be here very soon."
+  },
+  {
+    "word": "frequently",
+    "meaning": "When something happens frequently, it happens often.",
+    "example": "We meet frequently, either at the beginning or end of the week."
+  },
+  {
+    "word": "habit",
+    "meaning": "A habit is a thing that you do often.",
+    "example": "Smoking is a bad habit that can kill you."
+  },
+  {
+    "word": "instruct",
+    "meaning": "To instruct is to teach.",
+    "example": "My teacher instructs us in several subjects."
+  },
+  {
+    "word": "issue",
+    "meaning": "An issue is an important topic.",
+    "example": "The men spoke about issues that were important to the people."
+  },
+  {
+    "word": "none",
+    "meaning": "None means not any of something.",
+    "example": "He spent all his money. There is none left."
+  },
+  {
+    "word": "patient",
+    "meaning": "If people are patient, they don’t become angry or upset easily.",
+    "example": "I had to be patient and wait until 5 o’clock to leave."
+  },
+  {
+    "word": "positive",
+    "meaning": "If something is positive, it is good.",
+    "example": "She has a positive future ahead of her after finishing college."
+  },
+  {
+    "word": "punish",
+    "meaning": "To punish means to make someone suffer for breaking the rules or laws.",
+    "example": "To punish me, my teacher had me stand in the corner."
+  },
+  {
+    "word": "represent",
+    "meaning": "To represent is to speak or act for a person or group.",
+    "example": "My lawyer will represent me in court."
+  },
+  {
+    "word": "shake",
+    "meaning": "To shake is to move back and forth or up and down quickly.",
+    "example": "When people shake hands, it usually means they agree."
+  },
+  {
+    "word": "spread",
+    "meaning": "To spread is to move out to cover a larger area.",
+    "example": "I like to spread butter on my toast."
+  },
+  {
+    "word": "stroll",
+    "meaning": "To stroll means to walk slowly and calmly.",
+    "example": "My dog and I strolled through the park today."
+  },
+  {
+    "word": "village",
+    "meaning": "A village is a very small town.",
+    "example": "There are only a few houses in my village."
+  },
+  {
+    "word": "active",
+    "meaning": "When someone is active, they move a lot or have a lot of things to do.",
+    "example": "It is important to be active and not sit around all the time."
+  },
+  {
+    "word": "adult",
+    "meaning": "An adult is a person who is more than 18 years old.",
+    "example": "My mom and dad are adults."
+  },
+  {
+    "word": "age",
+    "meaning": "Age is how many years someone has lived.",
+    "example": "She died at the age of 80."
+  },
+  {
+    "word": "bad",
+    "meaning": "When something is bad, it is not good.",
+    "example": "She is unhappy because she had a bad day."
+  },
+  {
+    "word": "balance",
+    "meaning": "Balance is when two or more things are equal.",
+    "example": "A good balance between work and fun helps keep you healthy."
+  },
+  {
+    "word": "bike",
+    "meaning": "A bike is a vehicle with two wheels powered by a human.",
+    "example": "He rides his bike to school every day."
+  },
+  {
+    "word": "choose",
+    "meaning": "To choose is to pick something or make a decision.",
+    "example": "I have to choose between taking art classes and sports lessons."
+  },
+  {
+    "word": "doctor",
+    "meaning": "A doctor is a person who studies medicine and helps sick people.",
+    "example": "You should go to the doctor when you are sick."
+  },
+  {
+    "word": "during",
+    "meaning": "During an event means while the event was happening.",
+    "example": "Did you sleep during the movie?"
+  },
+  {
+    "word": "football",
+    "meaning": "Football is a sport with eleven members and an oval-shaped ball.",
+    "example": "Football is a popular sport in the United States."
+  },
+  {
+    "word": "fun",
+    "meaning": "When something is fun, it is enjoyable.",
+    "example": "We had a fun time at the birthday party."
+  },
+  {
+    "word": "game",
+    "meaning": "A game is an activity where people compete against each other.",
+    "example": "Let’s play a board game tonight."
+  },
+  {
+    "word": "heart",
+    "meaning": "A heart is an organ that keeps the body alive.",
+    "example": "My heart beats fast when I am nervous."
+  },
+  {
+    "word": "golf",
+    "meaning": "Golf is a sport with clubs and a small white ball.",
+    "example": "People play golf in nice weather."
+  },
+  {
+    "word": "increase",
+    "meaning": "To increase is to make something larger.",
+    "example": "I will increase my score if I study for the test."
+  },
+  {
+    "word": "life",
+    "meaning": "Life is the time when a person is alive.",
+    "example": "My grandfather had a long life."
+  },
+  {
+    "word": "kilometer",
+    "meaning": "A kilometer is a unit of measurement that is 1,000 meters.",
+    "example": "A marathon is 42.2 kilometers."
+  },
+  {
+    "word": "often",
+    "meaning": "Often is when something happens many times.",
+    "example": "He often goes to bed early during the week."
+  },
+  {
+    "word": "plenty",
+    "meaning": "If you have plenty of something, there is a lot of it.",
+    "example": "We have plenty of fruit, so help yourself."
+  },
+  {
+    "word": "weight",
+    "meaning": "Weight is how heavy something or someone is.",
+    "example": "I gained weight because I ate a lot of pizza."
+  },
+  {
+    "word": "apart",
+    "meaning": "When people or things are apart, they are not next to each other.",
+    "example": "They moved apart and then came back together."
+  },
+  {
+    "word": "attribute",
+    "meaning": "An attribute is a characteristic of a person or thing.",
+    "example": "He isn’t very clever, but he does have some other positive attributes."
+  },
+  {
+    "word": "bilingual",
+    "meaning": "A bilingual person can speak two languages.",
+    "example": "Since you already know English, after learning French you’ll be bilingual."
+  },
+  {
+    "word": "completely",
+    "meaning": "Something completely different is very, very different from before.",
+    "example": "I was completely wrong."
+  },
+  {
+    "word": "dash",
+    "meaning": "To dash means to run or move quickly.",
+    "example": "Helen dashed up the stairs so she wouldn’t be late for her appointment."
+  },
+  {
+    "word": "disgust",
+    "meaning": "Disgust is a feeling of distaste and anger caused by something rude or unpleasant.",
+    "example": "He felt disgust toward his date because she had such terrible eating habits."
+  },
+  {
+    "word": "fashionable",
+    "meaning": "Something fashionable is what people like to wear and do now.",
+    "example": "It is very fashionable to wear a hat."
+  },
+  {
+    "word": "foreign",
+    "meaning": "Something foreign is something we are not used to.",
+    "example": "He has travelled widely in foreign countries."
+  },
+  {
+    "word": "gulf",
+    "meaning": "A gulf is a gap between people who do not understand each other.",
+    "example": "There has been a gulf between James and Tony since their parents died."
+  },
+  {
+    "word": "mirror",
+    "meaning": "A mirror is usually made of glass, and you can see yourself in it.",
+    "example": "He used the mirror to shine light in their eyes."
+  },
+  {
+    "word": "natural",
+    "meaning": "Things that are natural are not made by people.",
+    "example": "We need to take care of the natural world."
+  },
+  {
+    "word": "nowadays",
+    "meaning": "Nowadays means at the present time.",
+    "example": "Nowadays, not so many people smoke."
+  },
+  {
+    "word": "participant",
+    "meaning": "A participant is someone who joins in a social event or competition.",
+    "example": "There were thousands of participants in this year’s marathon."
+  },
+  {
+    "word": "ritual",
+    "meaning": "A ritual is a formal custom that people do regularly.",
+    "example": "Ken was very interested to learn about the religious rituals of the natives."
+  },
+  {
+    "word": "spoken",
+    "meaning": "Spoken language is what we say.",
+    "example": "We cannot take back what has been spoken."
+  },
+  {
+    "word": "sport",
+    "meaning": "Sport involves games like running, jumping, football, and tennis.",
+    "example": "She loves watching sport on TV."
+  },
+  {
+    "word": "surprised",
+    "meaning": "You are surprised when something unexpected happens.",
+    "example": "He didn’t appear at all surprised when he read the article."
+  },
+  {
+    "word": "tense",
+    "meaning": "When you are tense, you are not comfortable and feel unhappy.",
+    "example": "I felt very tense waiting to hear the result of the vote."
+  },
+  {
+    "word": "totally",
+    "meaning": "If you totally agree, you agree with everything just said.",
+    "example": "I am totally against that."
+  },
+  {
+    "word": "vague",
+    "meaning": "If something is vague, it is not clear and gives very few details.",
+    "example": "I asked him about his mother’s health, but he was very vague about it."
+  },
+  {
+    "word": "allow",
+    "meaning": "To allow something to happen means to let it happen.",
+    "example": "Having a ticket will allow you to enter the show."
+  },
+  {
+    "word": "announce",
+    "meaning": "To announce something is to make it known.",
+    "example": "He announced to everyone his new idea for the company."
+  },
+  {
+    "word": "beside",
+    "meaning": "Someone or something beside you is next to you.",
+    "example": "The two brothers stood beside each other."
+  },
+  {
+    "word": "challenge",
+    "meaning": "A challenge is something difficult to complete.",
+    "example": "It was a challenge to climb to the top of the mountain."
+  },
+  {
+    "word": "claim",
+    "meaning": "To claim means to say that something is true.",
+    "example": "He claimed to know why the country’s laws were weak."
+  },
+  {
+    "word": "condition",
+    "meaning": "The condition of someone or something is the state that they are in.",
+    "example": "The patient’s condition was very good."
+  },
+  {
+    "word": "contribute",
+    "meaning": "To contribute to something means to do something to make it successful.",
+    "example": "We decided to contribute money to the new hospital."
+  },
+  {
+    "word": "difference",
+    "meaning": "A difference is a way that something is not like other things.",
+    "example": "The biggest difference between the birds is the color of their feathers."
+  },
+  {
+    "word": "divide",
+    "meaning": "To divide something is to split it into smaller parts.",
+    "example": "We divided the pizza."
+  },
+  {
+    "word": "expert",
+    "meaning": "An expert is someone who is very good at doing something.",
+    "example": "The wizard was an expert at magic."
+  },
+  {
+    "word": "famous",
+    "meaning": "A famous person or thing is well known.",
+    "example": "The Eiffel Tower in Paris is very famous."
+  },
+  {
+    "word": "force",
+    "meaning": "Force is a person’s strength or power.",
+    "example": "He used all his force to try and open the door."
+  },
+  {
+    "word": "harm",
+    "meaning": "To cause harm is to hurt someone or damage something.",
+    "example": "A hot iron can cause great harm if you are not careful."
+  },
+  {
+    "word": "lay",
+    "meaning": "To lay means to put or place in a horizontal or flat position.",
+    "example": "Don’t lay your socks on the floor."
+  },
+  {
+    "word": "peace",
+    "meaning": "Peace is a time without war.",
+    "example": "A white dove is a symbol of peace."
+  },
+  {
+    "word": "prince",
+    "meaning": "A prince is the son of a king.",
+    "example": "The prince and the princess were married."
+  },
+  {
+    "word": "protect",
+    "meaning": "To protect someone is to stop them from getting hurt.",
+    "example": "Firemen protect us from fires."
+  },
+  {
+    "word": "sense",
+    "meaning": "To sense something is to know about it without being told.",
+    "example": "I could sense that he was watching me."
+  },
+  {
+    "word": "sudden",
+    "meaning": "When something is sudden, it happens very quickly.",
+    "example": "He felt a sudden pain in his chest."
+  },
+  {
+    "word": "therefore",
+    "meaning": "Therefore means for this reason.",
+    "example": "He is fat. Therefore, he should go on a diet."
+  },
+  {
+    "word": "accept",
+    "meaning": "To accept something that is offered is to take it.",
+    "example": "I accepted the girl’s very nice gift."
+  },
+  {
+    "word": "arrange",
+    "meaning": "To arrange things is to put them in the right place.",
+    "example": "Please arrange the words in order from A to Z."
+  },
+  {
+    "word": "attend",
+    "meaning": "To attend something is to go to it.",
+    "example": "My sister and I attend the same school."
+  },
+  {
+    "word": "chase",
+    "meaning": "You chase people when you run after them and try to catch them.",
+    "example": "I was chased by a dog."
+  },
+  {
+    "word": "contrast",
+    "meaning": "A contrast is a sharp difference between two things.",
+    "example": "The contrast between my parents is very noticeable."
+  },
+  {
+    "word": "encourage",
+    "meaning": "To encourage people is to make them want to do something.",
+    "example": "My football coach will encourage us when we are losing."
+  },
+  {
+    "word": "familiar",
+    "meaning": "People or things familiar to you are those you know well.",
+    "example": "The two friends were very familiar with each other."
+  },
+  {
+    "word": "grab",
+    "meaning": "To grab is to take a hold of someone or something suddenly.",
+    "example": "I grabbed a pear from the tree."
+  },
+  {
+    "word": "hang",
+    "meaning": "To hang something is to keep it above the ground.",
+    "example": "I drew a picture of my family, and my mother hung it on the wall."
+  },
+  {
+    "word": "huge",
+    "meaning": "If something is huge, it is very big.",
+    "example": "At work, my father drives a huge truck."
+  },
+  {
+    "word": "necessary",
+    "meaning": "If something is necessary, you must do it.",
+    "example": "A passport is necessary if you travel to other countries."
+  },
+  {
+    "word": "pattern",
+    "meaning": "A pattern is a way in which something is done or organized.",
+    "example": "My pattern of brushing my teeth is the same as most people’s."
+  },
+  {
+    "word": "propose",
+    "meaning": "To propose something is to say that it should be done.",
+    "example": "My grandmother proposed that we have our picture taken with Santa."
+  },
+  {
+    "word": "purpose",
+    "meaning": "A purpose is the reason that you do something.",
+    "example": "The purpose of exercising is to get into shape."
+  },
+  {
+    "word": "release",
+    "meaning": "To release something is to stop holding it.",
+    "example": "She released the bird from her hands."
+  },
+  {
+    "word": "require",
+    "meaning": "To require something is to say that it is necessary.",
+    "example": "We require teachers to have a university degree."
+  },
+  {
+    "word": "satisfied",
+    "meaning": "You are satisfied when you have what you wanted.",
+    "example": "I am very satisfied with your work."
+  },
+  {
+    "word": "single",
+    "meaning": "If something is single, then there is only one.",
+    "example": "I have a single key in my hand."
+  },
+  {
+    "word": "tear",
+    "meaning": "To tear something means to pull it apart.",
+    "example": "It is easy to tear paper."
+  },
+  {
+    "word": "theory",
+    "meaning": "A theory is an idea about how something works.",
+    "example": "We talked about Einstein’s theory of relativity in class."
+  },
+  {
+    "word": "animal",
+    "meaning": "An animal is a living thing that can move.",
+    "example": "My favorite animal is the panda."
+  },
+  {
+    "word": "bus",
+    "meaning": "A bus is a large vehicle that people travel on.",
+    "example": "My father takes the bus to work."
+  },
+  {
+    "word": "cat",
+    "meaning": "A cat is a small animal related to lions and tigers that is kept as a pet.",
+    "example": "This cat is playing with a ball."
+  },
+  {
+    "word": "command",
+    "meaning": "A command is an order given to a person or animal to do something.",
+    "example": "Joe gave the students a command to stand up."
+  },
+  {
+    "word": "depend",
+    "meaning": "To depend on something is to need it for support or help.",
+    "example": "My grandfather depends on a cane when he walks."
+  },
+  {
+    "word": "dog",
+    "meaning": "A dog is an animal with four legs and a tail that is kept as a pet or trained to work.",
+    "example": "This woman’s best friend is her dog."
+  },
+  {
+    "word": "door",
+    "meaning": "A door is an object that swings or slides open and shut.",
+    "example": "Can you close the door, please?"
+  },
+  {
+    "word": "friend",
+    "meaning": "A friend is someone a person knows and likes spending time with.",
+    "example": "Brian’s friend is very sad."
+  },
+  {
+    "word": "hear",
+    "meaning": "To hear is to be aware of sound through your ears.",
+    "example": "Michelle cannot hear what you are saying."
+  },
+  {
+    "word": "help",
+    "meaning": "To help is to do something that makes something easier for someone else.",
+    "example": "Jane can help Nathan climb up the rock."
+  },
+  {
+    "word": "horse",
+    "meaning": "A horse is a big, strong animal that people ride and use for pulling heavy things.",
+    "example": "I went to a farm and saw a horse."
+  },
+  {
+    "word": "hospital",
+    "meaning": "A hospital is where sick or hurt people receive care or treatment.",
+    "example": "The doctor talks to a patient at the hospital."
+  },
+  {
+    "word": "leg",
+    "meaning": "A leg is a body part used for standing and walking.",
+    "example": "She hurt her leg."
+  },
+  {
+    "word": "medical",
+    "meaning": "Medical means related to the treatment of an injury or disease.",
+    "example": "Tyler is a medical student studying to become a doctor."
+  },
+  {
+    "word": "open",
+    "meaning": "To open is to move something so that an opening is not covered.",
+    "example": "Amy likes to open the window to let fresh air in."
+  },
+  {
+    "word": "pull",
+    "meaning": "To pull is to hold onto something to move it toward you.",
+    "example": "The children pull the rope."
+  },
+  {
+    "word": "rabbit",
+    "meaning": "A rabbit is a small animal with long ears that lives in a hole in the ground.",
+    "example": "Look at the rabbit in the park."
+  },
+  {
+    "word": "school",
+    "meaning": "A school is a place where children go to learn.",
+    "example": "The students study at school."
+  },
+  {
+    "word": "see",
+    "meaning": "To see is to use your eyes to look at something or someone.",
+    "example": "Steven does not want to see the scary picture."
+  },
+  {
+    "word": "service",
+    "meaning": "Service is the act of helping or serving someone.",
+    "example": "This coffee shop has excellent service."
+  },
+  {
+    "word": "benefit",
+    "meaning": "A benefit is a good thing.",
+    "example": "Being able to fly is a benefit to birds."
+  },
+  {
+    "word": "certain",
+    "meaning": "If you are certain about something, you know it is true.",
+    "example": "I am certain that zebras have stripes."
+  },
+  {
+    "word": "chance",
+    "meaning": "A chance is an opportunity to do something.",
+    "example": "I had a chance to see the Coliseum in Rome last summer."
+  },
+  {
+    "word": "effect",
+    "meaning": "An effect is a change made by something else.",
+    "example": "The medicine had a good effect on the boy."
+  },
+  {
+    "word": "essential",
+    "meaning": "If something is essential, it is very important and necessary.",
+    "example": "It is essential to have oxygen when you scuba dive."
+  },
+  {
+    "word": "far",
+    "meaning": "If something is far, it is not close.",
+    "example": "It’s far from the east coast to the west coast of America."
+  },
+  {
+    "word": "focus",
+    "meaning": "To focus on something is to think about it and pay attention to it.",
+    "example": "My mom always helps me to focus on my school work."
+  },
+  {
+    "word": "function",
+    "meaning": "The function of something is what it does.",
+    "example": "The function of a flashlight is to help you see in the dark."
+  },
+  {
+    "word": "grass",
+    "meaning": "Grass is the green leaves that cover the ground.",
+    "example": "The grass looked so soft and green."
+  },
+  {
+    "word": "guard",
+    "meaning": "To guard something is to take care of it.",
+    "example": "The police officer will guard us from any harm."
+  },
+  {
+    "word": "image",
+    "meaning": "The image of something is a picture of it.",
+    "example": "The image of her eye was very clear."
+  },
+  {
+    "word": "immediate",
+    "meaning": "If something is immediate, it happens quickly.",
+    "example": "An immediate response came from the pizza place."
+  },
+  {
+    "word": "primary",
+    "meaning": "If something is primary, it is the most important thing.",
+    "example": "His primary thoughts are about money."
+  },
+  {
+    "word": "proud",
+    "meaning": "People who feel proud are happy about what they have done.",
+    "example": "She is proud of the picture she drew of her house."
+  },
+  {
+    "word": "remain",
+    "meaning": "To remain somewhere is to stay there.",
+    "example": "My sister had to remain home since she was sick."
+  },
+  {
+    "word": "rest",
+    "meaning": "To rest is to stop being active while the body gets back its strength.",
+    "example": "I rested on the couch after work."
+  },
+  {
+    "word": "separate",
+    "meaning": "If two things are separate, they are not together.",
+    "example": "New York and Los Angeles are in two separate parts of America."
+  },
+  {
+    "word": "site",
+    "meaning": "A site is a place.",
+    "example": "We found the perfect site for our picnic."
+  },
+  {
+    "word": "tail",
+    "meaning": "A tail is a part of an animal’s body that sticks out from its rear or back.",
+    "example": "Our dog wags its tail when it’s happy."
+  },
+  {
+    "word": "trouble",
+    "meaning": "Trouble is a problem or a difficulty.",
+    "example": "I have trouble working with my boss."
+  },
+  {
+    "word": "advertise",
+    "meaning": "To advertise is to describe or draw attention to a product or event by using a public medium.",
+    "example": "The woman started a new company and needed to advertise her products."
+  },
+  {
+    "word": "aware",
+    "meaning": "If someone is aware, they know that something or a situation exists.",
+    "example": "The student became aware that the teacher was watching him."
+  },
+  {
+    "word": "battery",
+    "meaning": "A battery is an object placed inside something to supply it with electricity.",
+    "example": "My brother needs a battery for his clock."
+  },
+  {
+    "word": "black",
+    "meaning": "Black is the darkest color.",
+    "example": "Our street is black at night because there are no street lights."
+  },
+  {
+    "word": "city",
+    "meaning": "A city is a place where a lot of people live.",
+    "example": "Tokyo is a very big city in Japan."
+  },
+  {
+    "word": "clean",
+    "meaning": "To clean is to make something neat and tidy.",
+    "example": "I clean our kitchen every Saturday."
+  },
+  {
+    "word": "country",
+    "meaning": "A country is an area of land with the same government and laws.",
+    "example": "France is a country in Europe."
+  },
+  {
+    "word": "develop",
+    "meaning": "To develop is to make something larger or more advanced.",
+    "example": "This practice will help you develop your math skills."
+  },
+  {
+    "word": "electric",
+    "meaning": "If something is electric, it uses electricity.",
+    "example": "Some car companies make electric cars."
+  },
+  {
+    "word": "eventually",
+    "meaning": "When something happens at a later time or in the end, it happens eventually.",
+    "example": "He will eventually move to London to find a new job."
+  },
+  {
+    "word": "fact",
+    "meaning": "A fact is a piece of information that is true.",
+    "example": "A fact about South America is that it is a continent."
+  },
+  {
+    "word": "glass",
+    "meaning": "Glass is a transparent, breakable material.",
+    "example": "Windows are made of glass."
+  },
+  {
+    "word": "history",
+    "meaning": "History is the study of the past.",
+    "example": "History was my favorite subject in school."
+  },
+  {
+    "word": "nature",
+    "meaning": "Nature is everything in the physical world that is not made by people.",
+    "example": "On the weekends, I love to walk in nature among the trees."
+  },
+  {
+    "word": "never",
+    "meaning": "Never is when something is impossible or will not happen.",
+    "example": "They never eat meat because they are vegetarians."
+  },
+  {
+    "word": "people",
+    "meaning": "People are humans.",
+    "example": "How many people live in China?"
+  },
+  {
+    "word": "plastic",
+    "meaning": "Plastic is a material made by people.",
+    "example": "Many drinks are sold in plastic bottles."
+  },
+  {
+    "word": "problem",
+    "meaning": "A problem is a situation when something goes wrong.",
+    "example": "My problem is that I lost my dog."
+  },
+  {
+    "word": "street",
+    "meaning": "A street is a road in a city or village.",
+    "example": "What is the name of the street you live on?"
+  },
+  {
+    "word": "think",
+    "meaning": "To think is to have an opinion or thought about something.",
+    "example": "I think summer is the best season."
+  },
+  {
+    "word": "alone",
+    "meaning": "A person who is alone is not with another person.",
+    "example": "The boy wanted to be alone to think."
+  },
+  {
+    "word": "apartment",
+    "meaning": "An apartment is a set of rooms in a building where people live.",
+    "example": "She has a nice apartment in the city."
+  },
+  {
+    "word": "article",
+    "meaning": "An article is a story in a newspaper or magazine.",
+    "example": "Did you read the article in the newspaper about the soccer game?"
+  },
+  {
+    "word": "artist",
+    "meaning": "An artist is a person who paints, draws, or makes sculptures.",
+    "example": "He went to Paris to become an artist."
+  },
+  {
+    "word": "attitude",
+    "meaning": "Someone’s attitude is the way they feel and think.",
+    "example": "John has a bad attitude. He’s always angry."
+  },
+  {
+    "word": "beauty",
+    "meaning": "Beauty is the state or quality of being beautiful.",
+    "example": "I heard my mother was a great beauty when she was young."
+  },
+  {
+    "word": "compare",
+    "meaning": "To compare means to say how two things are the same and different.",
+    "example": "If you compare cats and dogs, you’ll see that they’re both good pets."
+  },
+  {
+    "word": "judge",
+    "meaning": "To judge something is to say if it is good or bad.",
+    "example": "The boy was going to judge how his mother’s turkey tasted."
+  },
+  {
+    "word": "magazine",
+    "meaning": "A magazine is a regular publication with news, stories, and articles.",
+    "example": "She likes to read fashion magazines."
+  },
+  {
+    "word": "material",
+    "meaning": "A material is what is used to make something.",
+    "example": "Brick is a good material for building houses."
+  },
+  {
+    "word": "meal",
+    "meaning": "A meal is a time when food is eaten, such as breakfast, lunch, or dinner.",
+    "example": "Breakfast is my favorite meal because I enjoy cereal."
+  },
+  {
+    "word": "method",
+    "meaning": "A method is the way to do something.",
+    "example": "One method to remember things is to tie a string around your finger."
+  },
+  {
+    "word": "neighbor",
+    "meaning": "A neighbor is a person who lives near you.",
+    "example": "I like my neighbor because he’s very friendly."
+  },
+  {
+    "word": "professional",
+    "meaning": "If something is professional, it deals with work that uses special skills.",
+    "example": "If you want to be a pilot, you must have professional training."
+  },
+  {
+    "word": "profit",
+    "meaning": "A profit is the extra money you make when you sell something.",
+    "example": "I made a small profit from selling my old clothes."
+  },
+  {
+    "word": "quality",
+    "meaning": "The quality of something is how good it is.",
+    "example": "The quality of his car is very good."
+  },
+  {
+    "word": "space",
+    "meaning": "A space is an empty area.",
+    "example": "I don’t have much space for things in my small house."
+  },
+  {
+    "word": "stair",
+    "meaning": "Stairs are the things that are used to walk up or down in a building.",
+    "example": "You can take the stairs to the second floor."
+  },
+  {
+    "word": "symbol",
+    "meaning": "A symbol is a thing that stands for something else.",
+    "example": "This symbol tells us that we cannot smoke in this area."
+  },
+  {
+    "word": "thin",
+    "meaning": "If someone or something is thin, they are not fat.",
+    "example": "The man was thin because he didn’t eat much."
+  },
+  {
+    "word": "accounting",
+    "meaning": "People study accounting so they can deal with money and finance properly.",
+    "example": "He works for an accounting firm."
+  },
+  {
+    "word": "appeal",
+    "meaning": "To appeal to someone is to be interesting or attractive.",
+    "example": "Sleeping all day appeals to me, but I have to go to school."
+  },
+  {
+    "word": "assume",
+    "meaning": "To assume something is to think that it is true, even with no proof.",
+    "example": "I assume you are both familiar with this plan."
+  },
+  {
+    "word": "borrow",
+    "meaning": "To borrow something is to take it and then give it back later.",
+    "example": "Can I borrow a pencil to use today? I’ll give it back to you tomorrow."
+  },
+  {
+    "word": "client",
+    "meaning": "A client is a person or business that pays another to do a service.",
+    "example": "She has many clients who enjoy coming to her salon."
+  },
+  {
+    "word": "downtown",
+    "meaning": "The downtown area is the center of most cities.",
+    "example": "The downtown area is filled with many tall buildings."
+  },
+  {
+    "word": "dull",
+    "meaning": "If something is dull, it is not exciting.",
+    "example": "The movie was very dull. I fell asleep watching it."
+  },
+  {
+    "word": "embarrass",
+    "meaning": "To embarrass people is to make them feel ashamed or foolish.",
+    "example": "He was embarrassed when he couldn’t remember her name."
+  },
+  {
+    "word": "fare",
+    "meaning": "A fare is an amount of money paid to use a bus, train, or taxi.",
+    "example": "Since he is a senior, my grandfather pays a low fare for the bus."
+  },
+  {
+    "word": "former",
+    "meaning": "Former describes something that used to be but is not anymore.",
+    "example": "The hotel, a former castle, was built over 200 years ago."
+  },
+  {
+    "word": "found",
+    "meaning": "To found a company or organization means to start it.",
+    "example": "The Pilgrims founded one of the first colonies in the United States."
+  },
+  {
+    "word": "invest",
+    "meaning": "To invest means to use money in a way that will bring a profit later.",
+    "example": "I invested money in a new building that should bring me a profit."
+  },
+  {
+    "word": "loan",
+    "meaning": "A loan is something, usually money, that one person lends to another.",
+    "example": "I got a loan from the bank."
+  },
+  {
+    "word": "practical",
+    "meaning": "If something is practical, it is useful.",
+    "example": "Learning English is practical; you can use it in many places."
+  },
+  {
+    "word": "quarter",
+    "meaning": "A quarter is 1/4 or 25% of something.",
+    "example": "He paid a quarter for the candy."
+  },
+  {
+    "word": "salary",
+    "meaning": "A salary is how much money a person makes at his or her job.",
+    "example": "He got a new job with a better salary."
+  },
+  {
+    "word": "scholarship",
+    "meaning": "A scholarship is money given so someone can go to school.",
+    "example": "I got a scholarship to help me pay for university."
+  },
+  {
+    "word": "temporary",
+    "meaning": "If something is temporary, it exists for a short time.",
+    "example": "This car is only temporary; I’ll get a new one soon."
+  },
+  {
+    "word": "treasure",
+    "meaning": "A treasure is a collection of valuable things, especially jewels or gold.",
+    "example": "They became very rich when they found the buried treasure."
+  },
+  {
+    "word": "urge",
+    "meaning": "To urge someone is to try very hard to get them to do something.",
+    "example": "He urged them to believe his story."
+  },
+  {
+    "word": "coach",
+    "meaning": "A coach is a person who teaches sports.",
+    "example": "My coach gets very excited during games."
+  },
+  {
+    "word": "control",
+    "meaning": "To control something is to make it do what you want.",
+    "example": "To control the TV, just push the buttons."
+  },
+  {
+    "word": "description",
+    "meaning": "A description of someone or something says what they are like.",
+    "example": "I gave a description of the man with the gun and hat to the police."
+  },
+  {
+    "word": "direct",
+    "meaning": "If something is direct, it goes straight between two places.",
+    "example": "The green path is a direct route to my house."
+  },
+  {
+    "word": "exam",
+    "meaning": "An exam is a test.",
+    "example": "I did some practice questions for the math exam on the board."
+  },
+  {
+    "word": "example",
+    "meaning": "An example of something is a thing that is typical of it.",
+    "example": "Cola is an example of a soft drink."
+  },
+  {
+    "word": "limit",
+    "meaning": "A limit is the largest or smallest amount of something that you allow.",
+    "example": "My mother put a limit on how much I could use the phone."
+  },
+  {
+    "word": "local",
+    "meaning": "If something is local, it is nearby.",
+    "example": "The local market in my neighborhood sells all the food we need."
+  },
+  {
+    "word": "magical",
+    "meaning": "Magical describes a quality that makes someone or something special.",
+    "example": "The fireworks made the night sky look so magical."
+  },
+  {
+    "word": "mail",
+    "meaning": "Mail is letters and other things sent to people.",
+    "example": "I get a lot of mail because I have friends all over the world."
+  },
+  {
+    "word": "novel",
+    "meaning": "A novel is a book that tells a story.",
+    "example": "He wrote a great novel about ancient China."
+  },
+  {
+    "word": "outline",
+    "meaning": "An outline is the plan for a story or essay.",
+    "example": "Before I wrote my essay, I made an outline."
+  },
+  {
+    "word": "poet",
+    "meaning": "A poet is a person who writes poems.",
+    "example": "William Shakespeare was one of the greatest poets."
+  },
+  {
+    "word": "print",
+    "meaning": "To print something is to put it onto paper.",
+    "example": "Make sure that you print your name clearly."
+  },
+  {
+    "word": "scene",
+    "meaning": "A scene is one part of a book or movie.",
+    "example": "A movie is made up of many short pieces or scenes."
+  },
+  {
+    "word": "sheet",
+    "meaning": "A sheet is a thin flat piece of paper.",
+    "example": "I only needed a single sheet of paper to do my homework."
+  },
+  {
+    "word": "silly",
+    "meaning": "People who are silly show a lack of serious thought.",
+    "example": "I made a silly mistake of dropping mom’s vase."
+  },
+  {
+    "word": "store",
+    "meaning": "A store is a place where you can buy things.",
+    "example": "I picked up a few things at the grocery store."
+  },
+  {
+    "word": "suffer",
+    "meaning": "To suffer is to feel pain.",
+    "example": "Her headache made her suffer all day."
+  },
+  {
+    "word": "technology",
+    "meaning": "Technology is new things made by using science.",
+    "example": "He loves technology such as laptop computers."
+  },
+  {
+    "word": "across",
+    "meaning": "To go across something is to go to the other side of it.",
+    "example": "He walked across the board to the other side."
+  },
+  {
+    "word": "breathe",
+    "meaning": "To breathe means to let air go in and out of your body.",
+    "example": "We need strong healthy lungs to help us breathe well."
+  },
+  {
+    "word": "characteristic",
+    "meaning": "A characteristic is something that shows what a person or a thing is like.",
+    "example": "One characteristic of tigers is their black stripes."
+  },
+  {
+    "word": "consume",
+    "meaning": "To consume something means to eat or drink it.",
+    "example": "Jack consumed a whole plate of spaghetti."
+  },
+  {
+    "word": "excite",
+    "meaning": "To excite someone means to make them happy and interested.",
+    "example": "I heard about the school dance on Friday. This excited me."
+  },
+  {
+    "word": "extremely",
+    "meaning": "If something is extremely good, it is very, very good.",
+    "example": "I was extremely worried about him."
+  },
+  {
+    "word": "fear",
+    "meaning": "Fear is the feeling of being afraid.",
+    "example": "I have a great fear of skateboarding."
+  },
+  {
+    "word": "fortunate",
+    "meaning": "If you are fortunate, you are lucky.",
+    "example": "I was fortunate to get a seat."
+  },
+  {
+    "word": "happen",
+    "meaning": "If someone happens to do something, he or she does it by chance.",
+    "example": "I happened to meet some new friends at school today."
+  },
+  {
+    "word": "length",
+    "meaning": "The length of something is how long it is from one end to the other.",
+    "example": "The length of the floor is three meters."
+  },
+  {
+    "word": "mistake",
+    "meaning": "A mistake is something you do wrong.",
+    "example": "My boss always yells at me when I make a mistake."
+  },
+  {
+    "word": "observe",
+    "meaning": "To observe something is to watch it.",
+    "example": "Brian observed the sun rising over the mountains."
+  },
+  {
+    "word": "opportunity",
+    "meaning": "An opportunity is a chance to do something.",
+    "example": "I had an opportunity to take pictures in the jungle."
+  },
+  {
+    "word": "prize",
+    "meaning": "A prize is something of value that is given to the winner.",
+    "example": "I won a prize for getting the best grade on my science test."
+  },
+  {
+    "word": "race",
+    "meaning": "A race is a contest to see who is the fastest.",
+    "example": "Paul is a fast runner, so he easily won the race."
+  },
+  {
+    "word": "realize",
+    "meaning": "To realize is to suddenly understand.",
+    "example": "After I left my house, I realized that I left the light on."
+  },
+  {
+    "word": "respond",
+    "meaning": "To respond is to give an answer to what someone else said.",
+    "example": "When the teacher asked the question, we all responded."
+  },
+  {
+    "word": "risk",
+    "meaning": "A risk is a chance of something bad happening.",
+    "example": "I took a risk and climbed the snowy mountain."
+  },
+  {
+    "word": "wonder",
+    "meaning": "To wonder is to ask yourself questions or have a need to know.",
+    "example": "The young mother wondered if she’d have a boy or a girl."
+  },
+  {
+    "word": "yet",
+    "meaning": "Yet is used to say something has not happened up to now.",
+    "example": "We can’t go out yet; we’re still eating."
+  },
+  {
+    "word": "art",
+    "meaning": "Art is something creative that expresses ideas and feelings.",
+    "example": "My sister likes to look at the art in the museum."
+  },
+  {
+    "word": "book",
+    "meaning": "A book is a set of printed sheets of paper that are held together inside a cover.",
+    "example": "The man smiles as he reads his favorite book."
+  },
+  {
+    "word": "clothes",
+    "meaning": "Clothes are what people wear to cover their bodies.",
+    "example": "I bought warm clothes for the cold winter."
+  },
+  {
+    "word": "community",
+    "meaning": "A community is a group of people who share the same area or interests.",
+    "example": "The community got together to plant trees."
+  },
+  {
+    "word": "December",
+    "meaning": "December is the twelfth month of the year.",
+    "example": "The last day of the year is December 31st."
+  },
+  {
+    "word": "dinner",
+    "meaning": "Dinner is the main meal eaten in the evening.",
+    "example": "I had a hamburger for dinner."
+  },
+  {
+    "word": "end",
+    "meaning": "To end is to stop or finish.",
+    "example": "They are happy because the teacher wanted to end the class early."
+  },
+  {
+    "word": "exchange",
+    "meaning": "To exchange is to give one thing in return for another.",
+    "example": "The men exchange business cards."
+  },
+  {
+    "word": "family",
+    "meaning": "A family is a group of people who are related to each other.",
+    "example": "There are four people in my family."
+  },
+  {
+    "word": "from",
+    "meaning": "From shows a starting place or position.",
+    "example": "Chris studies from 10 o’clock to noon every morning."
+  },
+  {
+    "word": "green",
+    "meaning": "Green is the color of growing grass or leaves.",
+    "example": "I don’t like green apples."
+  },
+  {
+    "word": "home",
+    "meaning": "A person’s home is the place where that person lives.",
+    "example": "The family likes to stay at home on the weekends."
+  },
+  {
+    "word": "January",
+    "meaning": "January is the first month of the year.",
+    "example": "My birthday is in January."
+  },
+  {
+    "word": "red",
+    "meaning": "Red is the color of blood.",
+    "example": "Jack is wearing a red shirt."
+  },
+  {
+    "word": "seven",
+    "meaning": "Seven is the word for the number 7.",
+    "example": "I have seven colored pencils on my desk."
+  },
+  {
+    "word": "start",
+    "meaning": "To start is to begin doing something.",
+    "example": "Catherine has to start work at 8 o’clock in the morning."
+  },
+  {
+    "word": "together",
+    "meaning": "Together shows an action is done with another person or thing.",
+    "example": "Let’s work together to finish the project."
+  },
+  {
+    "word": "university",
+    "meaning": "A university is a school where people study for a degree.",
+    "example": "My dream is to go to a good university."
+  },
+  {
+    "word": "wear",
+    "meaning": "To wear is to have clothing on your body.",
+    "example": "The man has to wear a suit to work."
+  },
+  {
+    "word": "year",
+    "meaning": "A year is a period of 365 days or twelve months.",
+    "example": "You become one year older every birthday."
+  },
+  {
+    "word": "appreciate",
+    "meaning": "To appreciate something is to understand its good qualities.",
+    "example": "I can appreciate the lovely scenery."
+  },
+  {
+    "word": "available",
+    "meaning": "If something is available, it means you can get it.",
+    "example": "There were many seats available in the room."
+  },
+  {
+    "word": "beat",
+    "meaning": "To beat someone means to do better than they do.",
+    "example": "I managed to beat everyone in the race."
+  },
+  {
+    "word": "bright",
+    "meaning": "If something is bright, it gives off a lot of light.",
+    "example": "The bright light from the explosion hurt my eyes."
+  },
+  {
+    "word": "celebrate",
+    "meaning": "To celebrate is to do something to show that an event is special.",
+    "example": "We all celebrated when we heard the great news."
+  },
+  {
+    "word": "decide",
+    "meaning": "To decide is to make a definite choice.",
+    "example": "He tried to decide which one to eat first."
+  },
+  {
+    "word": "disappear",
+    "meaning": "To disappear means to go away or not be seen.",
+    "example": "The top of the building is disappearing in the clouds."
+  },
+  {
+    "word": "else",
+    "meaning": "If you talk about something else, you talk about something different.",
+    "example": "I wanted a bike for my birthday, but I got something else."
+  },
+  {
+    "word": "fair",
+    "meaning": "Fair means reasonable or right.",
+    "example": "He sold me his car for a fair price."
+  },
+  {
+    "word": "flow",
+    "meaning": "To flow is to move easily and continuously in one direction.",
+    "example": "The water flowed over the rocks and into the lake."
+  },
+  {
+    "word": "forward",
+    "meaning": "If you move forward, you move in the direction in front of you.",
+    "example": "When he saw his mother, the baby crawled forward to her."
+  },
+  {
+    "word": "hill",
+    "meaning": "A hill is a raised area of land. It is higher than the land around it.",
+    "example": "The sun was rising above the green hills."
+  },
+  {
+    "word": "level",
+    "meaning": "A level is a point on a scale that measures something.",
+    "example": "Please check the level of the temperature."
+  },
+  {
+    "word": "lone",
+    "meaning": "A lone person or thing is the only one in a given place.",
+    "example": "A lone man walked along the street."
+  },
+  {
+    "word": "puddle",
+    "meaning": "A puddle is a pool of liquid on the ground.",
+    "example": "When the ice melted, it formed a puddle."
+  },
+  {
+    "word": "response",
+    "meaning": "A response is the answer to a question.",
+    "example": "He asked if I was sad. My response was “No.”"
+  },
+  {
+    "word": "season",
+    "meaning": "A season is a time of the year: spring, summer, fall, or winter.",
+    "example": "Fall is a warm season, while winter is very cold."
+  },
+  {
+    "word": "solution",
+    "meaning": "A solution is a way to solve a problem.",
+    "example": "There are many problems. We need solutions!"
+  },
+  {
+    "word": "waste",
+    "meaning": "To waste means to use something carelessly and unnecessarily.",
+    "example": "Turn off the water so you don’t waste it."
+  },
+  {
+    "word": "whether",
+    "meaning": "You use whether when you must choose between two things.",
+    "example": "I could not decide whether to go left or right."
+  },
+  {
+    "word": "always",
+    "meaning": "Always means that something happens all the time.",
+    "example": "They always brush their teeth in the morning."
+  },
+  {
+    "word": "ask",
+    "meaning": "To ask is to say or write something to get an answer.",
+    "example": "Please ask questions if you do not understand."
+  },
+  {
+    "word": "banana",
+    "meaning": "A banana is a long yellow fruit with soft white flesh inside.",
+    "example": "Did you eat a banana for breakfast?"
+  },
+  {
+    "word": "bread",
+    "meaning": "Bread is a food made from flour and water.",
+    "example": "You need two pieces of bread to make a sandwich."
+  },
+  {
+    "word": "cake",
+    "meaning": "Cake is a sweet dessert made from flour, water, sugar, and eggs.",
+    "example": "What a beautiful birthday cake!"
+  },
+  {
+    "word": "carrot",
+    "meaning": "A carrot is an orange vegetable.",
+    "example": "I put a carrot in my salad."
+  },
+  {
+    "word": "chicken",
+    "meaning": "Chicken is a bird that is often used for food.",
+    "example": "Chicken is his favorite kind of meat."
+  },
+  {
+    "word": "chocolate",
+    "meaning": "Chocolate is a sweet food made from cacao beans.",
+    "example": "I made a chocolate cake for my mom’s party."
+  },
+  {
+    "word": "contain",
+    "meaning": "To contain is to hold or have something.",
+    "example": "I have to find something to contain these apples."
+  },
+  {
+    "word": "delicious",
+    "meaning": "If a food is delicious, it is tasty.",
+    "example": "I loved the delicious fried chicken I ate for dinner!"
+  },
+  {
+    "word": "diet",
+    "meaning": "A diet is the food regularly eaten by a person.",
+    "example": "His diet mostly consists of fruits and vegetables."
+  },
+  {
+    "word": "eat",
+    "meaning": "To eat is to chew and swallow food.",
+    "example": "You should eat breakfast every day."
+  },
+  {
+    "word": "food",
+    "meaning": "Food is things people and animals eat.",
+    "example": "Pasta is a famous food in Italy."
+  },
+  {
+    "word": "fruit",
+    "meaning": "Fruit is a type of healthy food that grows on trees and plants.",
+    "example": "Apples, pears, and oranges are types of fruit."
+  },
+  {
+    "word": "great",
+    "meaning": "When something is great, it is very good.",
+    "example": "It was a great, exciting game!"
+  },
+  {
+    "word": "health",
+    "meaning": "Health is the state of a person’s body.",
+    "example": "People who want good health should not smoke."
+  },
+  {
+    "word": "recipe",
+    "meaning": "A recipe is a set of instructions for cooking a certain type of food.",
+    "example": "Do you use a recipe when you make that sauce?"
+  },
+  {
+    "word": "restaurant",
+    "meaning": "A restaurant is a business where people sit and eat food.",
+    "example": "Let’s eat at the Indian restaurant."
+  },
+  {
+    "word": "special",
+    "meaning": "If something is special, it is unique and different.",
+    "example": "The cupcake was special because it had blue frosting."
+  },
+  {
+    "word": "water",
+    "meaning": "Water is a clear liquid that people need to survive.",
+    "example": "Drink eight cups of water every day."
+  },
+  {
+    "word": "alive",
+    "meaning": "Someone or something that is alive is not dead.",
+    "example": "My grandparents are still alive even though they are over 90."
+  },
+  {
+    "word": "bone",
+    "meaning": "A bone is a hard part of the body.",
+    "example": "I brought home a nice bone for my dog."
+  },
+  {
+    "word": "bother",
+    "meaning": "To bother is to make the effort to do something.",
+    "example": "No one bothered to wash the dishes today."
+  },
+  {
+    "word": "captain",
+    "meaning": "A captain is the person who controls a ship or airplane.",
+    "example": "The captain sailed his ship to Australia."
+  },
+  {
+    "word": "conclusion",
+    "meaning": "The conclusion of something is the final part of it.",
+    "example": "At the conclusion of the race, the spectators cheered for the winner."
+  },
+  {
+    "word": "doubt",
+    "meaning": "Doubt is a feeling of not being sure.",
+    "example": "I have doubt that the story is true."
+  },
+  {
+    "word": "explore",
+    "meaning": "To explore is to look for new places.",
+    "example": "He wants to explore the world and see new things."
+  },
+  {
+    "word": "glad",
+    "meaning": "If you are glad, you are happy.",
+    "example": "I am glad you came to my party."
+  },
+  {
+    "word": "however",
+    "meaning": "However means despite or not being influenced by something.",
+    "example": "She is a great cook. However, she never had professional lessons."
+  },
+  {
+    "word": "injustice",
+    "meaning": "Injustice is a lack of fairness or justice.",
+    "example": "Putting an innocent person in jail is an act of injustice."
+  },
+  {
+    "word": "international",
+    "meaning": "If something is international, it involves more than one country.",
+    "example": "The United Nations is a powerful international organization."
+  },
+  {
+    "word": "lawyer",
+    "meaning": "A lawyer works with the law and represents people in court.",
+    "example": "The lawyer left the courthouse after the judge made her decision."
+  },
+  {
+    "word": "mention",
+    "meaning": "To mention something is to talk about it.",
+    "example": "The doctors mentioned the problems that the patient was having."
+  },
+  {
+    "word": "old",
+    "meaning": "Someone who is old has lived for many years.",
+    "example": "My mother is seventy years old now."
+  },
+  {
+    "word": "policy",
+    "meaning": "A policy is a rule.",
+    "example": "He told us that his policy was to put customers first."
+  },
+  {
+    "word": "social",
+    "meaning": "If something is social, it is about many people in a community.",
+    "example": "People should come together and fix the world’s social problems."
+  },
+  {
+    "word": "speech",
+    "meaning": "A speech is something said to a group of people.",
+    "example": "She gave a speech to the class."
+  },
+  {
+    "word": "staff",
+    "meaning": "A staff is a group of people working together in a company.",
+    "example": "My dad has a staff of four people to help him at the office."
+  },
+  {
+    "word": "toward",
+    "meaning": "If you go toward something, you go closer to it.",
+    "example": "Santa walked toward my house with a bag of gifts."
+  },
+  {
+    "word": "wood",
+    "meaning": "Wood is the thing that trees are made of.",
+    "example": "I put the pieces of wood in a pile."
+  },
+  {
+    "word": "achieve",
+    "meaning": "To achieve something is to successfully do it after trying hard.",
+    "example": "I was happy that I could achieve my goal."
+  },
+  {
+    "word": "advise",
+    "meaning": "To advise someone is to tell them what to do.",
+    "example": "My mother often advises people about their money."
+  },
+  {
+    "word": "already",
+    "meaning": "If something happens already, it happens before a certain time.",
+    "example": "It is already time for the movie to start. Let’s go in."
+  },
+  {
+    "word": "basic",
+    "meaning": "If something is basic, it is very simple or easy.",
+    "example": "I learned some basic English skills in school today."
+  },
+  {
+    "word": "bit",
+    "meaning": "A bit is a small amount of something.",
+    "example": "I ate a bit of chocolate before I went to bed."
+  },
+  {
+    "word": "consider",
+    "meaning": "To consider something means to think about it.",
+    "example": "Pete didn’t like his job. He considered getting a new one."
+  },
+  {
+    "word": "destroy",
+    "meaning": "To destroy means to damage something so badly that it cannot be used.",
+    "example": "The glass was destroyed."
+  },
+  {
+    "word": "entertain",
+    "meaning": "To entertain someone is to do something that they enjoy.",
+    "example": "The clown entertained the kids at the party."
+  },
+  {
+    "word": "extra",
+    "meaning": "If something is extra, it is more than what is needed.",
+    "example": "The squirrel had extra nuts for the winter."
+  },
+  {
+    "word": "goal",
+    "meaning": "A goal is something you work toward.",
+    "example": "Her goal was to become a doctor."
+  },
+  {
+    "word": "lie",
+    "meaning": "To lie is to say or write something untrue to deceive someone.",
+    "example": "Whenever Pinocchio lied to his father, his nose grew."
+  },
+  {
+    "word": "meat",
+    "meaning": "Meat is food made of animals.",
+    "example": "This piece of meat I’m eating tastes very good."
+  },
+  {
+    "word": "opinion",
+    "meaning": "An opinion is a thought about a person or a thing.",
+    "example": "Meg told me her opinion of my story. She said it was not funny."
+  },
+  {
+    "word": "real",
+    "meaning": "If something is real, it actually exists.",
+    "example": "Some people don’t believe in aliens from space, but I think they’re real."
+  },
+  {
+    "word": "reflect",
+    "meaning": "To reflect is when a surface sends back light, heat, sound or an image.",
+    "example": "Her face was reflected in the smooth glass."
+  },
+  {
+    "word": "regard",
+    "meaning": "To regard people is to think of them in a certain way.",
+    "example": "The boy regarded the girl as a good friend."
+  },
+  {
+    "word": "serve",
+    "meaning": "To serve someone is to give them food or drinks.",
+    "example": "He served us our drinks quickly."
+  },
+  {
+    "word": "vegetable",
+    "meaning": "A vegetable is a plant used as food.",
+    "example": "Carrots are my favorite vegetable."
+  },
+  {
+    "word": "war",
+    "meaning": "A war is a big fight between two groups of people.",
+    "example": "Many young men died in the war."
+  },
+  {
+    "word": "worth",
+    "meaning": "If something is worth an amount of money, it costs that amount.",
+    "example": "Our house is worth a lot of money."
+  },
+  {
+    "word": "appear",
+    "meaning": "To appear is to seem.",
+    "example": "She appeared to be sad. She was crying."
+  },
+  {
+    "word": "base",
+    "meaning": "The base is the bottom of something.",
+    "example": "The base of the table has three legs."
+  },
+  {
+    "word": "brain",
+    "meaning": "The brain is the organ in your head that lets you think.",
+    "example": "You must use your brain to solve the problem."
+  },
+  {
+    "word": "career",
+    "meaning": "A career is a job that you do for a large part of your life.",
+    "example": "He was in the hospitality business for most of his career."
+  },
+  {
+    "word": "clerk",
+    "meaning": "A clerk is a type of worker. Clerks in a store help customers.",
+    "example": "The clerk added up her bill for the groceries."
+  },
+  {
+    "word": "effort",
+    "meaning": "Effort is hard work or an attempt to do something.",
+    "example": "He always puts a lot of effort into his studies."
+  },
+  {
+    "word": "enter",
+    "meaning": "To enter a place is to go into it.",
+    "example": "Two guards greeted me as I entered the front door."
+  },
+  {
+    "word": "excellent",
+    "meaning": "When something is excellent, it is very good.",
+    "example": "I got an excellent score on my school test."
+  },
+  {
+    "word": "hero",
+    "meaning": "A hero is a brave person who does things to help others.",
+    "example": "To children, the man in the blue and red costume was a real hero."
+  },
+  {
+    "word": "hurry",
+    "meaning": "To hurry is to do something quickly.",
+    "example": "I hurried home on my bike."
+  },
+  {
+    "word": "inform",
+    "meaning": "To inform someone is to tell them about something.",
+    "example": "I called and informed her about my idea."
+  },
+  {
+    "word": "later",
+    "meaning": "Later means after the present, expected, or usual time.",
+    "example": "She missed the train, so she’ll arrive a little later than expected."
+  },
+  {
+    "word": "leave",
+    "meaning": "To leave means to go away from someone or something.",
+    "example": "He packed his bag and was ready to leave for home."
+  },
+  {
+    "word": "locate",
+    "meaning": "To locate something is to find it.",
+    "example": "I could not locate my keys in the house."
+  },
+  {
+    "word": "nurse",
+    "meaning": "A nurse is a person who helps sick people in the hospital.",
+    "example": "A nurse helped me get better."
+  },
+  {
+    "word": "operation",
+    "meaning": "An operation is when a doctor replaces or removes something in the body.",
+    "example": "The operation on my arm was a success."
+  },
+  {
+    "word": "pain",
+    "meaning": "Pain is the feeling that you have when you are hurt.",
+    "example": "His head was full of pain."
+  },
+  {
+    "word": "refuse",
+    "meaning": "To refuse something is to say “no” to it.",
+    "example": "The dog refused to play with the cat."
+  },
+  {
+    "word": "though",
+    "meaning": "Though is used when one idea makes another seem surprising.",
+    "example": "Though he was overweight, he liked to be active."
+  },
+  {
+    "word": "various",
+    "meaning": "If something is various, there are many types of it.",
+    "example": "She owned shoes of various styles."
+  },
+  {
+    "word": "actual",
+    "meaning": "Actual means real or true.",
+    "example": "This is the actual sword that the king owned, not a fake one."
+  },
+  {
+    "word": "amaze",
+    "meaning": "To amaze people is to surprise them very much.",
+    "example": "The news in the paper amazed Jack."
+  },
+  {
+    "word": "charge",
+    "meaning": "A charge is the price to pay for something.",
+    "example": "The charge for the shirts was $15."
+  },
+  {
+    "word": "comfort",
+    "meaning": "To comfort someone means to make them feel better.",
+    "example": "I wanted to comfort my friend after I heard the bad news."
+  },
+  {
+    "word": "contact",
+    "meaning": "To contact people is to speak or write to them.",
+    "example": "I contacted Sue about my party."
+  },
+  {
+    "word": "customer",
+    "meaning": "A customer is a person who buys something at a store.",
+    "example": "The customer put a few items in a bag."
+  },
+  {
+    "word": "deliver",
+    "meaning": "To deliver something is to take it from one place to another.",
+    "example": "The man delivered Chinese food to my house."
+  },
+  {
+    "word": "earn",
+    "meaning": "To earn means to get money for the work you do.",
+    "example": "He earns his living as a chef in a great restaurant."
+  },
+  {
+    "word": "gate",
+    "meaning": "A gate is a type of door. Gates are usually made of metal or wood.",
+    "example": "We want to put up a wooden gate around our house."
+  },
+  {
+    "word": "include",
+    "meaning": "To include something means to have it as part of a group.",
+    "example": "Does this meal include a soft drink?"
+  },
+  {
+    "word": "manage",
+    "meaning": "To manage something means to control or be in charge of it.",
+    "example": "I had to manage the meeting myself."
+  },
+  {
+    "word": "mystery",
+    "meaning": "A mystery is something that is difficult to understand or explain.",
+    "example": "The path on the map was a complete mystery to me."
+  },
+  {
+    "word": "occur",
+    "meaning": "To occur means to happen.",
+    "example": "When did the thunderstorm occur?"
+  },
+  {
+    "word": "opposite",
+    "meaning": "If A is the opposite of B, A is completely different from B.",
+    "example": "The opposite of black is white."
+  },
+  {
+    "word": "plate",
+    "meaning": "A plate is a flat round thing that you put food on.",
+    "example": "I put my plate down so I could put some food on it."
+  },
+  {
+    "word": "receive",
+    "meaning": "To receive something is to get it.",
+    "example": "I received a present on my birthday."
+  },
+  {
+    "word": "reward",
+    "meaning": "A reward is something given in exchange for good behavior or work.",
+    "example": "He was given a reward for his excellent performance."
+  },
+  {
+    "word": "set",
+    "meaning": "To set something is to put it somewhere.",
+    "example": "Please set the dice down on the table."
+  },
+  {
+    "word": "steal",
+    "meaning": "To steal is to take something that is not yours.",
+    "example": "The men tried to steal money from the bank."
+  },
+  {
+    "word": "thief",
+    "meaning": "A thief is someone who quietly takes things that do not belong to them.",
+    "example": "A thief broke into our home and took my mother’s jewelry."
+  },
+  {
+    "word": "advance",
+    "meaning": "To advance is to go forward.",
+    "example": "He advanced across the bridge slowly."
+  },
+  {
+    "word": "athlete",
+    "meaning": "An athlete is a person who plays sports.",
+    "example": "Some athletes can play many sports very well."
+  },
+  {
+    "word": "average",
+    "meaning": "If something is average, it is at a normal level.",
+    "example": "I’m not rich or poor; I’m average."
+  },
+  {
+    "word": "behavior",
+    "meaning": "Your behavior is the way you act.",
+    "example": "Their behavior was good this semester. They didn’t cause trouble."
+  },
+  {
+    "word": "behind",
+    "meaning": "Behind means to be at the back of something.",
+    "example": "The little girl was hiding behind a tree."
+  },
+  {
+    "word": "course",
+    "meaning": "A course is a class in school.",
+    "example": "I took a P.E. course in school this year."
+  },
+  {
+    "word": "lower",
+    "meaning": "To lower something is to make it go down.",
+    "example": "The chart shows how his production has lowered over the year."
+  },
+  {
+    "word": "match",
+    "meaning": "To match is to be the same or similar.",
+    "example": "The two shoes matched. They looked the same."
+  },
+  {
+    "word": "member",
+    "meaning": "A member is a person who is part of a group.",
+    "example": "Julie is the newest member of our team."
+  },
+  {
+    "word": "mental",
+    "meaning": "If something is mental, it has to do with your mind.",
+    "example": "I made a mental picture of the room."
+  },
+  {
+    "word": "passenger",
+    "meaning": "A passenger is a person who rides in a car, train, or airplane.",
+    "example": "One passenger was standing near the subway train."
+  },
+  {
+    "word": "personality",
+    "meaning": "Your personality is what you are like and how you behave.",
+    "example": "John has a bad personality."
+  },
+  {
+    "word": "poem",
+    "meaning": "A poem is a short kind of writing.",
+    "example": "William Shakespeare wrote many poems."
+  },
+  {
+    "word": "pole",
+    "meaning": "A pole is a long thin stick made of wood or metal that supports things.",
+    "example": "The flag was hanging from the flag pole."
+  },
+  {
+    "word": "remove",
+    "meaning": "To remove something is to take it away.",
+    "example": "I removed the nail from the board."
+  },
+  {
+    "word": "safety",
+    "meaning": "Safety means the condition of being safe and free from danger.",
+    "example": "For his own safety, he was placed in a car seat."
+  },
+  {
+    "word": "shoot",
+    "meaning": "To shoot is to fire something like a bullet at someone or something.",
+    "example": "The hunter raised his gun to shoot at the target."
+  },
+  {
+    "word": "sound",
+    "meaning": "To sound means to make a noise.",
+    "example": "The alarm clock sounded and woke us all up."
+  },
+  {
+    "word": "swim",
+    "meaning": "To swim is to move through water.",
+    "example": "I love to swim in the ocean."
+  },
+  {
+    "word": "web",
+    "meaning": "A web is a home made by a spider.",
+    "example": "Mom cleaned the spider webs out of the garage."
+  },
+  {
+    "word": "block",
+    "meaning": "A block is a solid piece of wood, stone, or ice.",
+    "example": "I saw a block of ice on the floor."
+  },
+  {
+    "word": "bury",
+    "meaning": "When you bury something, you put it under the ground or under a lot of other things.",
+    "example": "My father was buried in his hometown when he died."
+  },
+  {
+    "word": "cheer",
+    "meaning": "To cheer is to give a loud shout of approval or encouragement.",
+    "example": "The crowd all cheered when the home team won."
+  },
+  {
+    "word": "complex",
+    "meaning": "If something is complex, it has many small parts. It is hard to understand.",
+    "example": "A jigsaw puzzle can be complex because it has so many pieces."
+  },
+  {
+    "word": "critic",
+    "meaning": "A critic is someone who gives opinions about movies, books, plays, etc.",
+    "example": "The wine critic tasted the wine so he could give his opinion."
+  },
+  {
+    "word": "direction",
+    "meaning": "A direction is the way to go.",
+    "example": "Go in this direction for 10 minutes, and you will get to the river."
+  },
+  {
+    "word": "event",
+    "meaning": "An event is something that happens, especially something important.",
+    "example": "Finishing high school was a major event in his life."
+  },
+  {
+    "word": "exercise",
+    "meaning": "To exercise is to run or play sports so that you can be healthy.",
+    "example": "You should exercise every day."
+  },
+  {
+    "word": "friendship",
+    "meaning": "Friendship is the relationship between people who are friends.",
+    "example": "Michael and Lisa have a very strong friendship with each other."
+  },
+  {
+    "word": "guide",
+    "meaning": "A guide is someone who shows you where to go.",
+    "example": "We followed a guide at the park."
+  },
+  {
+    "word": "lack",
+    "meaning": "If there is a lack of something, there is not enough of it.",
+    "example": "His only problem is a lack of money."
+  },
+  {
+    "word": "perform",
+    "meaning": "To perform is to do something in front of people who watch.",
+    "example": "He will perform a song for the class."
+  },
+  {
+    "word": "pressure",
+    "meaning": "Pressure is what you apply to make someone do something.",
+    "example": "They put pressure on him to change his mind."
+  },
+  {
+    "word": "probably",
+    "meaning": "If something will probably happen, it is likely to happen.",
+    "example": "You will probably get a good grade if you study for the test."
+  },
+  {
+    "word": "public",
+    "meaning": "If something is public, it is meant for everyone to use.",
+    "example": "I went to the public park to play with my friends."
+  },
+  {
+    "word": "smart",
+    "meaning": "Smart means intelligent.",
+    "example": "Mary is a smart student."
+  },
+  {
+    "word": "strike",
+    "meaning": "To strike people or things is to hit them.",
+    "example": "She struck the other girl in the face."
+  },
+  {
+    "word": "support",
+    "meaning": "To support something is to like it and help it be successful.",
+    "example": "Everyone at work supports the new plan."
+  },
+  {
+    "word": "term",
+    "meaning": "A term is a word for something.",
+    "example": "I often use the term “oops” when I make a mistake."
+  },
+  {
+    "word": "unite",
+    "meaning": "To unite is to get together to do something.",
+    "example": "If we unite, we can finish our project faster."
+  },
+  {
+    "word": "associate",
+    "meaning": "To associate means to connect something with a person or thing.",
+    "example": "Most people associate birthday parties with having fun."
+  },
+  {
+    "word": "environment",
+    "meaning": "The environment is the place where people work or live.",
+    "example": "Keeping our environment clean is important to our health."
+  },
+  {
+    "word": "factory",
+    "meaning": "A factory is a building where things are made or put together.",
+    "example": "We have only one factory in our town."
+  },
+  {
+    "word": "feature",
+    "meaning": "A feature is an important part of something.",
+    "example": "The cell phone has many features."
+  },
+  {
+    "word": "instance",
+    "meaning": "An instance is an example of something.",
+    "example": "I have never experienced an instance of hate. Have you?"
+  },
+  {
+    "word": "involve",
+    "meaning": "To involve means to include as an active participant.",
+    "example": "The whole family was involved in playing the game."
+  },
+  {
+    "word": "medicine",
+    "meaning": "Medicine is something you take to feel better or treat an illness.",
+    "example": "The doctor gave me medicine for my cold."
+  },
+  {
+    "word": "mix",
+    "meaning": "A mix is different things put together.",
+    "example": "The green mix we made in science class spilled onto the table."
+  },
+  {
+    "word": "organize",
+    "meaning": "To organize is to plan or get ready for an event.",
+    "example": "Make a list to help you organize the things you need."
+  },
+  {
+    "word": "period",
+    "meaning": "A period is an amount of time when something happens.",
+    "example": "In one period in Europe, there were many knights."
+  },
+  {
+    "word": "populate",
+    "meaning": "If people populate an area, they live there.",
+    "example": "Billions of people populate the Earth."
+  },
+  {
+    "word": "produce",
+    "meaning": "To produce something is to make or grow it.",
+    "example": "This tree produces apples every year."
+  },
+  {
+    "word": "range",
+    "meaning": "A range is a number or a set of similar things.",
+    "example": "I saw a range of cars to choose from."
+  },
+  {
+    "word": "recognize",
+    "meaning": "To recognize something is to know it because you have seen it before.",
+    "example": "I recognized an old friend from many years ago."
+  },
+  {
+    "word": "regular",
+    "meaning": "If something is regular, it happens often and in equal amounts of time.",
+    "example": "Our regular lunch time is around noon."
+  },
+  {
+    "word": "sign",
+    "meaning": "A sign is an indication giving information, directions, a warning, etc.",
+    "example": "The sign indicated that today would be a bad day."
+  },
+  {
+    "word": "tip",
+    "meaning": "A tip is a pointed end of something.",
+    "example": "The tip of his pen was very sharp."
+  },
+  {
+    "word": "tradition",
+    "meaning": "A tradition is something people have been doing for a long time.",
+    "example": "Marriage is a tradition all over the world."
+  },
+  {
+    "word": "trash",
+    "meaning": "Trash is waste material or unwanted or worthless things.",
+    "example": "Please take out the trash; it smells bad."
+  },
+  {
+    "word": "wide",
+    "meaning": "If something is wide, it is large from side to side.",
+    "example": "The door was as wide as my arms."
+  },
+  {
+    "word": "advice",
+    "meaning": "Advice is an opinion about what to do.",
+    "example": "I don’t know how to study for my exams. Can you give me some advice?"
+  },
+  {
+    "word": "along",
+    "meaning": "Along means down the length of a road, river, etc.",
+    "example": "Walk along this tunnel for ten minutes, and you’ll see a door on the left."
+  },
+  {
+    "word": "attention",
+    "meaning": "Attention is the notice, thought, or consideration of someone.",
+    "example": "His work got the attention of two of his co-workers."
+  },
+  {
+    "word": "attract",
+    "meaning": "To attract means to make a person or thing come closer or be interested.",
+    "example": "The magnet attracted the metal."
+  },
+  {
+    "word": "climb",
+    "meaning": "To climb means to use your hands and feet to go up something.",
+    "example": "The girls climbed to the top of the mountain."
+  },
+  {
+    "word": "drop",
+    "meaning": "To drop is to fall or allow something to fall.",
+    "example": "A small amount of water dropped from the bottle."
+  },
+  {
+    "word": "final",
+    "meaning": "If something is final, it is the last part.",
+    "example": "In the final part of the film, the man and the woman got married."
+  },
+  {
+    "word": "further",
+    "meaning": "Further means at or from a greater distance or time.",
+    "example": "The escalator is further than I thought."
+  },
+  {
+    "word": "imply",
+    "meaning": "To imply something is to suggest it without saying it.",
+    "example": "The man implied that he wanted the job, but he didn’t say so."
+  },
+  {
+    "word": "maintain",
+    "meaning": "To maintain means to make something stay the same.",
+    "example": "The balls maintain constant movement."
+  },
+  {
+    "word": "neither",
+    "meaning": "You use neither to connect two negative possibilities.",
+    "example": "Neither the path on the left nor the path on the right will lead us home."
+  },
+  {
+    "word": "otherwise",
+    "meaning": "Otherwise means in another way if you don’t do this.",
+    "example": "It’s good to stay active; otherwise, you’ll gain weight."
+  },
+  {
+    "word": "physical",
+    "meaning": "If something is physical, it is related to your body and not your mind.",
+    "example": "Biking is good for your physical health."
+  },
+  {
+    "word": "prove",
+    "meaning": "To prove something is to show that it is true.",
+    "example": "My teacher proved the answer on the board."
+  },
+  {
+    "word": "react",
+    "meaning": "To react is to respond by acting in a certain way.",
+    "example": "James reacted badly to the news."
+  },
+  {
+    "word": "ride",
+    "meaning": "To ride something is to travel on it. You can ride an animal, a bike, etc.",
+    "example": "I will ride a roller coaster for the first time today."
+  },
+  {
+    "word": "situated",
+    "meaning": "If something is situated somewhere, it is in that place.",
+    "example": "The whiteboard is situated between the two men."
+  },
+  {
+    "word": "society",
+    "meaning": "Society is a group of people who interact and share a culture.",
+    "example": "Society expects people to be good and honest."
+  },
+  {
+    "word": "standard",
+    "meaning": "A standard is what people consider normal or good.",
+    "example": "This older model TV is below our store’s standards."
+  },
+  {
+    "word": "suggest",
+    "meaning": "To suggest something means to give an idea or plan about it.",
+    "example": "He suggested that we go to see his boss."
+  },
+  {
+    "word": "actually",
+    "meaning": "Actually means in fact or really.",
+    "example": "My dad looks a little mean, but actually he’s very kind."
+  },
+  {
+    "word": "bite",
+    "meaning": "Bite is the act of using your teeth to cut and tear into something.",
+    "example": "The boy took a big bite of his hamburger."
+  },
+  {
     "word": "coast",
-    "meaning": "The land by an ocean.",
+    "meaning": "The coast is the land by an ocean.",
     "example": "I stayed on the southern coast of Australia."
   },
   {
-    "word": "obvious",
-    "meaning": "Clear or easy to see.",
-    "example": "It was obvious that he was tired. He kept falling asleep."
+    "word": "deal",
+    "meaning": "A deal is an agreement that you have with another person.",
+    "example": "I made a deal with the other company to give us some money."
   },
   {
-    "word": "persuade",
-    "meaning": "Make that person agree to do something.",
-    "example": "The children persuaded their parents to buy them gifts."
+    "word": "desert",
+    "meaning": "The desert is an area of land without many plants or water.",
+    "example": "Not many plants grow in the desert."
   },
   {
-    "word": "sincere",
-    "meaning": "A person is honest, especially about emotions or opinions.",
-    "example": "He sounded sincere when he apologized to me."
+    "word": "effective",
+    "meaning": "If something is effective, it works well.",
+    "example": "Swimming is an effective way to stay healthy."
   },
   {
-    "word": "ball",
-    "meaning": "A round object that is thrown, kicked, or hit in a game or sport.",
-    "example": "Seth bought a new soccer ball."
+    "word": "examine",
+    "meaning": "To examine something is to look at it carefully.",
+    "example": "The doctor examined my eyes today."
+  },
+  {
+    "word": "false",
+    "meaning": "If something is false, it is not correct.",
+    "example": "If you think the answer is false, press the red button."
+  },
+  {
+    "word": "figure out",
+    "meaning": "When you figure something out, you come to understand it and find an answer.",
+    "example": "I couldn’t figure out what he wanted me to do."
+  },
+  {
+    "word": "gift",
+    "meaning": "A gift is something you give someone.",
+    "example": "Dave received many gifts for Christmas."
+  },
+  {
+    "word": "hunger",
+    "meaning": "Hunger is the feeling that you get when you need to eat.",
+    "example": "After playing all day long, he was filled with hunger."
+  },
+  {
+    "word": "imagine",
+    "meaning": "To imagine something is to think of it in your mind.",
+    "example": "Sally imagined herself winning lots of money."
+  },
+  {
+    "word": "journey",
+    "meaning": "A journey is a long trip.",
+    "example": "I went on a journey across the country with my parents."
+  },
+  {
+    "word": "puzzle",
+    "meaning": "A puzzle is something that is hard to understand.",
+    "example": "The question was a puzzle to him."
+  },
+  {
+    "word": "quite",
+    "meaning": "Quite means that something is a certain way completely or very much.",
+    "example": "I think typing on a keyboard is quite easy."
+  },
+  {
+    "word": "rather",
+    "meaning": "Rather is used when you want to do one thing but not the other.",
+    "example": "I would rather have the red one than the blue one."
+  },
+  {
+    "word": "specific",
+    "meaning": "If something is specific, it is precise or exact.",
+    "example": "Please choose a specific place on the map."
+  },
+  {
+    "word": "spider",
+    "meaning": "A spider is a small creature with eight legs.",
+    "example": "Some adults have a fear of little creatures such as spiders."
+  },
+  {
+    "word": "tour",
+    "meaning": "A tour is a short trip in which you see many sights.",
+    "example": "I took a tour of Asia and Europe."
+  },
+  {
+    "word": "trip",
+    "meaning": "A trip is a journey to a certain place.",
+    "example": "Ken took a trip to the city yesterday."
+  },
+  {
+    "word": "band",
+    "meaning": "A band is a group of people who play music.",
+    "example": "My brother is in a rock band."
+  },
+  {
+    "word": "barely",
+    "meaning": "Barely means by the smallest amount, almost not.",
+    "example": "I barely had enough money to pay for my bus ticket."
+  },
+  {
+    "word": "boring",
+    "meaning": "If something is boring, it is not fun.",
+    "example": "I think the Internet is boring."
+  },
+  {
+    "word": "cancel",
+    "meaning": "To cancel means to decide that an event or a request will not happen.",
+    "example": "She canceled the rest of her plans because of the rain."
+  },
+  {
+    "word": "driveway",
+    "meaning": "A driveway is a short private road that leads to a person’s home.",
+    "example": "The long driveway led us to their new house."
+  },
+  {
+    "word": "garbage",
+    "meaning": "Garbage is waste material like unwanted or spoiled food, bottles, paper, etc.",
+    "example": "The boy cleaned up the garbage around his house."
+  },
+  {
+    "word": "instrument",
+    "meaning": "An instrument is something designed to do a certain task like play music.",
+    "example": "My favorite musical instrument is the piano."
+  },
+  {
+    "word": "list",
+    "meaning": "A list is a record of information printed with an item on each line.",
+    "example": "My mom makes a list of groceries to buy."
+  },
+  {
+    "word": "magic",
+    "meaning": "Magic is the power to do impossible things.",
+    "example": "The magician used magic to pull a rabbit out of his hat."
+  },
+  {
+    "word": "message",
+    "meaning": "A message is a set of words that you send to someone.",
+    "example": "I left a message for you in the envelope."
+  },
+  {
+    "word": "notice",
+    "meaning": "To notice something is to see it for the first time.",
+    "example": "Did you notice the view?"
+  },
+  {
+    "word": "own",
+    "meaning": "To own something means to have it. That thing belongs to you.",
+    "example": "My grandfather owns that house."
+  },
+  {
+    "word": "predict",
+    "meaning": "To predict something is to say that it will happen.",
+    "example": "She predicted that I would get married next year."
+  },
+  {
+    "word": "professor",
+    "meaning": "A professor is a person who teaches in college.",
+    "example": "Mike’s science professor knows a lot about physics."
+  },
+  {
+    "word": "rush",
+    "meaning": "To rush is to go somewhere or do something very quickly.",
+    "example": "Nancy rushed to finish her homework."
+  },
+  {
+    "word": "schedule",
+    "meaning": "A schedule is a plan that tells you when to do things.",
+    "example": "What is your class schedule for today?"
+  },
+  {
+    "word": "share",
+    "meaning": "To share something is to give some of it to another person.",
+    "example": "Jimmy shared his apple with me."
+  },
+  {
+    "word": "stage",
+    "meaning": "A stage is a place where actors or musicians act or sing.",
+    "example": "A large screen was on the stage."
+  },
+  {
+    "word": "storm",
+    "meaning": "A storm is very bad weather. There is a lot of rain or snow.",
+    "example": "Did that storm wake you up last night?"
+  },
+  {
+    "word": "within",
+    "meaning": "You use within to say that something is inside another thing.",
+    "example": "Within the box, there was a pizza."
+  },
+  {
+    "word": "burden",
+    "meaning": "A burden is a serious or difficult responsibility.",
+    "example": "Children who do not behave are a burden to their parents."
+  },
+  {
+    "word": "compromise",
+    "meaning": "To compromise is to agree to something that is not exactly what you want.",
+    "example": "We both compromised about the game we decided to play."
+  },
+  {
+    "word": "craft",
+    "meaning": "To craft something is to make it using skill.",
+    "example": "She crafted the bookcase out of solid pine wood and then painted it."
+  },
+  {
+    "word": "dive",
+    "meaning": "When you dive into water, you go down head first into the water.",
+    "example": "I like sky-diving from an airplane."
+  },
+  {
+    "word": "fragile",
+    "meaning": "When people or things are fragile, they are not strong and can be damaged easily.",
+    "example": "The fragile glassware was carefully packed into boxes."
+  },
+  {
+    "word": "half",
+    "meaning": "If you cut something into two parts that are the same size, you cut it half.",
+    "example": "The machine can divide the book in half."
+  },
+  {
+    "word": "innocence",
+    "meaning": "Innocence is a lack of experience of difficult or complex things in life.",
+    "example": "Everyone who met her found her innocence to be charming."
+  },
+  {
+    "word": "lead",
+    "meaning": "When you lead something, you go first and it follows you.",
+    "example": "I will lead you to the right place."
+  },
+  {
+    "word": "meeting",
+    "meaning": "When you have a meeting, you are with other people.",
+    "example": "We have lots of meetings at our school to plan what to do."
+  },
+  {
+    "word": "merge",
+    "meaning": "To merge two things is to combine them into one whole thing.",
+    "example": "The storm clouds merged into one large menacing cloud that filled the sky."
+  },
+  {
+    "word": "moderate",
+    "meaning": "When something is moderate, it is not too big or too small in size or amount.",
+    "example": "It takes a moderate amount of patience to be around small children all day."
+  },
+  {
+    "word": "overwhelm",
+    "meaning": "To overwhelm is to exist in such a large amount that someone cannot deal with it.",
+    "example": "The amount of homework her teacher assigned has overwhelmed her."
+  },
+  {
+    "word": "payment",
+    "meaning": "When you make a payment, you give someone some money for what you get.",
+    "example": "I made the last payment on my car yesterday. Now I am really the owner."
+  },
+  {
+    "word": "perception",
+    "meaning": "A perception of a situation is a way of thinking about it or understanding it.",
+    "example": "Since he couldn’t see, his perception of life was much different than mine."
+  },
+  {
+    "word": "settle",
+    "meaning": "When you settle something, you reach an agreement.",
+    "example": "We settled the argument by looking up the answer on the web."
+  },
+  {
+    "word": "shiver",
+    "meaning": "A shiver is a shaking movement the body makes when someone is cold or scared.",
+    "example": "I got shivers on my way home because it was so cold."
+  },
+  {
+    "word": "sociable",
+    "meaning": "When someone is sociable, they are friendly.",
+    "example": "Many of my good friends are sociable, but I am shy."
+  },
+  {
+    "word": "speed",
+    "meaning": "When you speed, you go very fast.",
+    "example": "Speeding is the cause of most car accidents."
+  },
+  {
+    "word": "talkative",
+    "meaning": "When someone is talkative, he or she talks a lot.",
+    "example": "My aunt is very talkative whenever she is on the phone."
+  },
+  {
+    "word": "usual",
+    "meaning": "When something is usual, it is what we expect.",
+    "example": "It was just the usual people who came."
+  },
+  {
+    "word": "above",
+    "meaning": "If something is above, it is at a higher level than something else.",
+    "example": "He straightened the sign that was above the crowd."
+  },
+  {
+    "word": "ahead",
+    "meaning": "If something is ahead of something else, it is in front of it.",
+    "example": "The blue car drove on ahead of us."
+  },
+  {
+    "word": "amount",
+    "meaning": "An amount is how much there is of something.",
+    "example": "Can I use my card to pay for the entire amount?"
+  },
+  {
+    "word": "belief",
+    "meaning": "A belief is a strong feeling that something is correct or true.",
+    "example": "A preacher or priest should have a strong belief in God."
+  },
+  {
+    "word": "center",
+    "meaning": "The center of something is the middle of it.",
+    "example": "The center of a dart board is the most important spot."
+  },
+  {
+    "word": "common",
+    "meaning": "If something is common, it happens often or there is much of it.",
+    "example": "It is common for snow to fall in the winter."
+  },
+  {
+    "word": "cost",
+    "meaning": "To cost is to require payment.",
+    "example": "These designer shoes cost more than the regular ones."
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "To demonstrate something is to show how it is done.",
+    "example": "She demonstrated her plan to her co-workers."
+  },
+  {
+    "word": "different",
+    "meaning": "Different describes someone or something that is not the same as others.",
+    "example": "Each of my sisters has a different hair style."
+  },
+  {
+    "word": "evidence",
+    "meaning": "Evidence is a fact or thing that you use to prove something.",
+    "example": "He used the pictures as evidence that UFOs are real."
+  },
+  {
+    "word": "honesty",
+    "meaning": "Honesty means the quality of being truthful or honest.",
+    "example": "A courtroom should be a place of honesty."
+  },
+  {
+    "word": "idiom",
+    "meaning": "An idiom is a phrase with a meaning different from its words.",
+    "example": "The idiom “when pigs fly” means that something will never happen."
+  },
+  {
+    "word": "independent",
+    "meaning": "If something is independent, it is not controlled by something else.",
+    "example": "She chose to live an independent life in the country."
+  },
+  {
+    "word": "inside",
+    "meaning": "Inside means the inner part, space or side of something.",
+    "example": "The inside of the box was empty."
+  },
+  {
+    "word": "jail",
+    "meaning": "A jail is a place to keep bad people.",
+    "example": "He was sent to jail for taking other people’s cars."
+  },
+  {
+    "word": "master",
+    "meaning": "A master is a person who is very good at something.",
+    "example": "My brother is a master of taekwondo."
+  },
+  {
+    "word": "memory",
+    "meaning": "A memory is something you remember.",
+    "example": "The memory of my first time in the city will always be the best."
+  },
+  {
+    "word": "pocket",
+    "meaning": "A pocket is a part of your clothing where you can keep things.",
+    "example": "She always had her hands in her pockets."
+  },
+  {
+    "word": "proper",
+    "meaning": "If something is proper, it is right.",
+    "example": "It is not proper to throw your garbage on the road."
+  },
+  {
+    "word": "sale",
+    "meaning": "If something is for sale, you can buy it.",
+    "example": "Everything for sale here is the same price."
   }
 ]
