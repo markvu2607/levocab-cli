@@ -1,4 +1,8 @@
 #! /usr/bin/env node
-import chalk from "chalk"
+import {createSpinner} from "nanospinner";
 
-console.log("Hello World!");
+const sleep = (ms = 2000) => new Promise((resolve) => setTimeout(resolve, ms))
+
+const spinner = createSpinner("Preparing ...").start()
+await sleep();
+spinner.success()
