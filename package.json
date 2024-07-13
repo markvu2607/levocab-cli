@@ -12,7 +12,9 @@
     "url": "git+https://github.com/markvu2607/levocab-cli.git"
   },
   "keywords": [
-    "cli"
+    "cli",
+    "english",
+    "vocabulary"
   ],
   "bin": "index.js",
   "author": "markvu2607",
@@ -24,8 +26,6 @@
   "dependencies": {
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
-    "figlet": "^1.7.0",
-    "gradient-string": "^2.0.2",
     "inquirer": "^10.0.1",
     "nanospinner": "^1.1.0"
   }
