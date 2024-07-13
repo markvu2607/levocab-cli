@@ -1,18 +1,17 @@
 [
   {
-    "word": "abc",
-    "meaningOptions": [
-      { "meaning": "this is first meaning", "correct": 1 },
-      { "meaning": "this is second meaning", "correct": 0 }
-    ],
-    "example": "This is an example"
+    "word": "coast",
+    "meaning": "The coast is the land by an ocean.",
+    "example": "I stayed on the southern coast of Australia."
   },
   {
-    "word": "def",
-    "meaningOptions": [
-      { "meaning": "this is first meaning 2", "correct": 0 },
-      { "meaning": "this is second meaning 2", "correct": 1 }
-    ],
-    "example": "This is an example 2"
+    "word": "obvious",
+    "meaning": "Obvious means clear or easy to see.",
+    "example": "It was obvious that he was tired. He kept falling asleep."
+  },
+  {
+    "word": "persuade",
+    "meaning": "To persuade someone is to make that person agree to do something.",
+    "example": "The children persuaded their parents to buy them gifts."
   }
 ]
