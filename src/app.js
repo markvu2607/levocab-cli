@@ -3,7 +3,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 import { createSpinner } from "nanospinner";
 
-import { random, sleep, loading } from "./utils.js";
+import { random, sleep, shuffle } from "./utils.js";
 
 let data = []
 
@@ -14,30 +14,57 @@ async function welcome() {
 }
 
 async function getQuestion() {
-  await loading("Preparing question ...", async () => await sleep())
+  let question;
+  const spinner = createSpinner("Generating question ...").start()
+  await sleep()
+  question = generateQuestion(data)
+  spinner.success({text: "Generated question."})
 
-  const question = data[random(0, data.length - 1)]
   if(!question) throw new Error("Something went wrong!")
 
   const answer = await inquirer.prompt({
     name: "userAnswer",
     type: "list",
     message: `What is the meaning of: ${question.word}?`,
-    choices: question.meaningOptions.map(option => option.meaning)
+    choices: question.meaningOptions
   })
 
   const userAnswer = answer.userAnswer
-  const correctOption = question.meaningOptions.find(option => option.correct)
-  await checkAnswer(correctOption.meaning === userAnswer)
+  await checkAnswer(question.meaning === userAnswer)
 
-  console.log(`${chalk.bold(question.word)}: ${correctOption.meaning}`)
-  console.log(`${chalk.bold("Example")}: ${question.example}`)
-  console.log(`-----------------------------------------------------`)
+  const spinner2 = createSpinner("Loading detail ...").start()
+  await sleep()
+  spinner2.success({text: `
+    ${chalk.bold(question.word)}: ${question.meaning}
+    ${chalk.bold("Example")}: ${question.example}
+  `})
+}
+
+function generateQuestion(data) {
+  const selectedWordsIndex = []
+  const meaningOptions = []
+
+  let randomIndex = random(0, data.length - 1)
+  const randomWord = data[randomIndex]
+  selectedWordsIndex.push(randomIndex);
+  meaningOptions.push(randomWord.meaning)
+
+  while(selectedWordsIndex.length < 3) {
+    randomIndex = random(0, data.length - 1)
+    if(selectedWordsIndex.includes(randomIndex)) continue
+    selectedWordsIndex.push(randomIndex)
+    meaningOptions.push(data[randomIndex].meaning)
+  }
+
+  return {
+    ...randomWord,
+    meaningOptions: shuffle(meaningOptions)
+  }
 }
 
 async function checkAnswer(isCorrect) {
   const spinner = createSpinner("Checking answer ...").start()
-  await sleep(1000)
+  await sleep()
   if(isCorrect) {
     spinner.success({text: "✅ Correct answer!" })
   } else {
@@ -47,14 +74,16 @@ async function checkAnswer(isCorrect) {
 
 async function start() {
   await welcome()
-  await loading("Loading data ...", async () => {
-    data = await fetch("https://raw.githubusercontent.com/markvu2607/levocab-cli/data/data.json").then(data => data.json())
-  } );
+
+  const spinner = createSpinner("Loading data ...").start()
+  data = await fetch("https://raw.githubusercontent.com/markvu2607/levocab-cli/data/data.json").then(data => data.json())
+  spinner.success({text: "Loaded data."})
+
   while(true) {
     await getQuestion();
 
     await sleep();
-
+    console.log(`-----------------------------------------------------`)
     const answer = await inquirer.prompt({
       name: "isContinue",
       type: "list",
