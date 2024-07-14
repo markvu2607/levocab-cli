@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "levocab",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI for learn English vocabulary",
   "main": "index.js",
   "scripts": {

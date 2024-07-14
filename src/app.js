@@ -66,9 +66,9 @@ async function checkAnswer(isCorrect) {
   const spinner = createSpinner("Checking answer ...").start()
   await sleep()
   if(isCorrect) {
-    spinner.success({text: "✅ Correct answer!" })
+    spinner.success({text: chalk.green("Correct answer!")})
   } else {
-    spinner.error({text: "☠️ Wrong answer!" })
+    spinner.error({text: chalk.red("Wrong answer!")})
   }
 }
 
