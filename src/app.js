@@ -30,7 +30,7 @@ async function getQuestion() {
   })
 
   const userAnswer = answer.userAnswer
-  await checkAnswer(question.meaning === userAnswer)
+  await checkAnswer(hiddenWord(question.meaning, question.word) === userAnswer)
 
   const spinner2 = createSpinner("Loading detail ...").start()
   await sleep()
@@ -47,19 +47,33 @@ function generateQuestion(data) {
   let randomIndex = random(0, data.length - 1)
   const randomWord = data[randomIndex]
   selectedWordsIndex.push(randomIndex);
-  meaningOptions.push(randomWord.meaning)
+  meaningOptions.push(hiddenWord(randomWord.meaning, randomWord.word))
 
   while(selectedWordsIndex.length < 3) {
     randomIndex = random(0, data.length - 1)
     if(selectedWordsIndex.includes(randomIndex)) continue
     selectedWordsIndex.push(randomIndex)
-    meaningOptions.push(data[randomIndex].meaning)
+    meaningOptions.push(hiddenWord(data[randomIndex].meaning, data[randomIndex].word))
   }
 
   return {
     ...randomWord,
     meaningOptions: shuffle(meaningOptions)
   }
+}
+
+function hiddenWord(origin, word) {
+
+  function removeChars(word, chars){
+    let result = word
+    chars.forEach(char => {
+      result = result.replace(char, "")
+    })
+    return result
+  }
+
+  const arrWord = origin.split(" ")
+  return arrWord.map(w => removeChars(w, [",", "."]).toLowerCase() === word.toLowerCase() ? "_____" : w).join(" ")
 }
 
 async function checkAnswer(isCorrect) {
